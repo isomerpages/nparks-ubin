@@ -1,8 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: The Ubin Project
+    url: /example-page/
+  - title: Visit
+    collection: the-ubin-project
+  - title: Biodiversity
+    collection: the-ubin-project
+  - title: Activities
+    collection: the-ubin-project
+  - title: Volunteers
+    collection: the-ubin-project
+  - title: New folder
+    collection: the-ubin-project
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: The Ubin Project
-    collection: the-ubin-project
