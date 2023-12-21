@@ -2,4 +2,5 @@ collections:
   visit:
     output: true
     order:
+      - Ubin Way.md
       - Useful Links.md
