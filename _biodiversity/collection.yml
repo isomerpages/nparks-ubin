@@ -2,4 +2,5 @@ collections:
   biodiversity:
     output: true
     order:
+      - Places of Interest.md
       - Flora and Fauna of Ubin.md
