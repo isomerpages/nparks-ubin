@@ -1,0 +1,4 @@
+collections:
+  activities:
+    output: true
+    order: []
