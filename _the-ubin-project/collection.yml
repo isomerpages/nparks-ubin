@@ -2,5 +2,6 @@ collections:
   the-ubin-project:
     output: true
     order:
+      - Ubin Day and Pesta Ubin 2024.md
       - Friends of Ubin Network (FUN).md
       - About the Project.md
