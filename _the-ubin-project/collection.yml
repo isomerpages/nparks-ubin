@@ -2,6 +2,7 @@ collections:
   the-ubin-project:
     output: true
     order:
+      - Event Highlights.md
       - Videos and Media.md
       - Environmental Study Reports.md
       - Newsroom.md
