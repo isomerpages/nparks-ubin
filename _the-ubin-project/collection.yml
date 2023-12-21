@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  the-ubin-project:
     output: true
     order:
       - folder-page.md
