@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: The Ubin Project
-    url: /example-page/
+    collection: the-ubin-project
   - title: Visit
     collection: the-ubin-project
   - title: Biodiversity
