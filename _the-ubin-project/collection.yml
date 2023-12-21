@@ -2,4 +2,5 @@ collections:
   the-ubin-project:
     output: true
     order:
+      - Friends of Ubin Network (FUN).md
       - The Ubin Project.md
