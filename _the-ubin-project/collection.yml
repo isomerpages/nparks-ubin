@@ -2,6 +2,7 @@ collections:
   the-ubin-project:
     output: true
     order:
+      - Videos and Media.md
       - Environmental Study Reports.md
       - Newsroom.md
       - Ubin Tides Newsletter.md
