@@ -2,11 +2,11 @@ collections:
   the-ubin-project:
     output: true
     order:
-      - Event Highlights.md
-      - Videos and Media.md
-      - Environmental Study Reports.md
-      - Newsroom.md
-      - Ubin Tides Newsletter.md
-      - Ubin Day and Pesta Ubin 2024.md
-      - Friends of Ubin Network (FUN).md
       - About the Project.md
+      - Friends of Ubin Network (FUN).md
+      - Ubin Day and Pesta Ubin 2024.md
+      - Ubin Tides Newsletter.md
+      - Newsroom.md
+      - Environmental Study Reports.md
+      - Videos and Media.md
+      - Event Highlights.md
