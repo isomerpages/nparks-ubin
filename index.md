@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Pulau Ubin Website
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Annotation_2023_12_21_131945__2_.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
