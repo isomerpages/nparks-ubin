@@ -3,7 +3,7 @@ url: https://www.ubin.gov.sg
 favicon: /images/Annotation_2023_12_21_131945__2_.png
 colors:
   primary-color: "#417505"
-  secondary-color: "#ffd68c"
+  secondary-color: "#7ed321"
   media-colors:
     - title: media-color-one
       color: "#49759a"
