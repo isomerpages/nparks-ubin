@@ -1,0 +1,8 @@
+collections:
+  visit:
+    output: true
+    order:
+      - Pulau Ubin.md
+      - Directions.md
+      - Ubin Way.md
+      - Useful Links.md
