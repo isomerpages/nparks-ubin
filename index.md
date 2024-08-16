@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Ubin Tide
+      title: Ubin Tides
       background: /images/Duck_family.jpg
       variant: floating
       subtitle: Read our newsletter to get the latest buzz on Pulau Ubin!
@@ -16,9 +16,8 @@ sections:
       size: md
       button: Click here to find out more
       url: https//google.com
-  - infobar:
-      title: Calander of Activities
-      subtitle: What to do?
-      button: Find out more
-      url: /faq/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
