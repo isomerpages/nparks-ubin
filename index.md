@@ -7,23 +7,15 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Welcome to Pulau Ubin
+      title: Ubin Tide
       background: /images/Duck_family.jpg
-      dropdown:
-        title: Learn More
-        options:
-          - title: The Ubin Project
-            url: ""
-          - title: Visit
-            url: ""
-          - title: Biodiversity
-            url: ""
-          - title: Heritage
-            url: ""
-          - title: Activities
-            url: ""
-          - title: Volunteers
-            url: ""
+      variant: floating
+      subtitle: Read our newsletter to get the latest buzz on Pulau Ubin!
+      backgroundColor: gray
+      alignment: right
+      size: md
+      button: Click here to find out more
+      url: https//google.com
   - infobar:
       title: Calander of Activities
       subtitle: What to do?
