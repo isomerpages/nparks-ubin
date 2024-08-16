@@ -2,5 +2,6 @@ collections:
   activities:
     output: true
     order:
+      - Camping.md
       - Jelutong campsite/.keep
       - Fishing.md
