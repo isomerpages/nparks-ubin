@@ -24,7 +24,7 @@ sections:
           description: Gather your friends and families and spend a fun day or two at the
             island!
           linktext: Learn more
-          url: ""
+          url: /camping/
         - title: Cycling
           description: For leisure or thrill, you can enjoy both at Ubin.
           linktext: Learn more
