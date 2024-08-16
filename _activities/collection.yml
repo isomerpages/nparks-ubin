@@ -1,4 +1,5 @@
 collections:
   activities:
     output: true
-    order: []
+    order:
+      - Fishing.md
