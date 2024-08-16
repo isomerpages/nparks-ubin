@@ -16,8 +16,25 @@ sections:
       size: md
       button: Click here to find out more
       url: https//google.com
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
+  - textcards:
+      title: Recreational activities
+      id: textcards
+      cards:
+        - title: Camping
+          description: Gather your friends and families and spend a fun day or two at the
+            island!
+          linktext: Learn more
+          url: ""
+        - title: Cycling
+          description: For leisure or thrill, you can enjoy both at Ubin.
+          linktext: Learn more
+          url: ""
+        - title: Nature appreciation
+          description: Explore the wild side of Singapore.
+          linktext: Learn more
+          url: ""
+        - title: Fishing
+          description: Head on to Pulau Ubin for a fishing adventure.
+          linktext: Learn more
+          url: ""
 ---
