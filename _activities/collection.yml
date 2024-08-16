@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Jelutong campsite/.keep
-      - Camping.md
       - Fishing.md
