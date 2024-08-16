@@ -36,5 +36,5 @@ sections:
         - title: Fishing
           description: Head on to Pulau Ubin for a fishing adventure.
           linktext: Learn more
-          url: ""
+          url: /fishing/
 ---
