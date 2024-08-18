@@ -124,13 +124,34 @@ helping to contribute towards climate change mitigation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Microgrid" src="/images/microgrid.jpg">
 </div>
+<blockquote>
+<p><sup><sub>EDP Renewables APAC Greens Pulau Ubin’s Micro-grid with a Solar Green Roof and Vanadium Redox Flow Energy Storage System</sub></sup>
+</p>
+</blockquote>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Nature-based recreation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>NParks will continue to work with FUN to provide amenities on Pulau Ubin
+while ensuring they are compatible with the island’s natural environment.
+This includes continued efforts to upgrade and enhance interpretive displays
+and signage for wayfinding, public safety and enforcement. NParks will
+also be conducting trail improvement works on the tracks leading up to
+Chek Jawa Wetlands from 1 July to 31 October 2024 to provide visitors with
+an improved experience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chek Jawa Visitor Centre" src="/images/CJVC.jpg">
+</div>
+<blockquote>
+<p><sup><sub>Chek Jawa Visitor Centre</sub></sup>
+</p>
+</blockquote>
+<p>NParks and FUN will work closely to continue engaging stakeholders and
+the general public on how best to further enhance the island’s rustic and
+natural charm, promoting greater community stewardship as Singapore transforms
+into a City in Nature.</p>
 </div>
 </details>
 </div>
