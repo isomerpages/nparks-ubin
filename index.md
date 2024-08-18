@@ -37,4 +37,12 @@ sections:
           description: Head on to Pulau Ubin for a fishing adventure.
           linktext: Learn more
           url: /fishing/
+  - infopic:
+      title: The Ubin Project
+      subtitle: The Next Bound
+      id: infopic
+      button: Find out more
+      url: /
+      image: /images/Pekan_quarry_floating_wetlands_2.jpg
+      alt: Pekan Quarry Floating Wetland
 ---
