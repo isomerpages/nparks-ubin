@@ -38,7 +38,7 @@ provide insights into the condition of Ubin’s habitats.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="Freshwater Habitat" src="/images/freshwhabitate.jpg">
 </div>
 <blockquote>
-<p><sup><sub>  A freshwater habitat at Thomson Nature Park</sub></sup>
+<p><sup><sub>A freshwater habitat at Thomson Nature Park</sub></sup>
 </p>
 </blockquote>
 <p></p>
@@ -49,6 +49,15 @@ provide insights into the condition of Ubin’s habitats.</p>
 <p><sup>A gravid Cinnamon Bush Frog with a belly full of eggs (Photo Credit: Noel Thomas)</sup>
 </p>
 </blockquote>
+<p><u>Mangrove biodiversity survey&nbsp;</u>
+</p>
+<p>A new in-depth survey of mangroves will be carried out to gather data
+on the biodiversity of Pulau Ubin’s mangroves, particularly those in the
+central part of the island which constitute the largest contiguous mangrove
+area in Singapore. This survey is supported by OCBC as part of their contribution
+to the development of the OCBC Mangrove Park at Pulau Ubin. This will help
+chart the course for NParks’ future conservation plans on the island and
+beyond.</p>
 </div>
 </details>
 <details class="isomer-details">
