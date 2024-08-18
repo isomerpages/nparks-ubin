@@ -42,7 +42,7 @@ sections:
       subtitle: The Next Bound
       id: infopic
       button: Find out more
-      url: /
+      url: /the-next-bound/
       image: /images/Pekan_quarry_floating_wetlands_2.jpg
       alt: Pekan Quarry Floating Wetland
 ---
