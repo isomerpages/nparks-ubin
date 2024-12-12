@@ -1,0 +1,4 @@
+collections:
+  visitor-profile:
+    output: true
+    order: []
