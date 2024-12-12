@@ -59,8 +59,8 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-        - title: Fishing
-          description: Card description
+        - title: Recreational activities
+          description: ""
           linktext: Learn more
           url: ""
         - title: Nature enthusiast
