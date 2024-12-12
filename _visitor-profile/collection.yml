@@ -2,4 +2,5 @@ collections:
   visitor-profile:
     output: true
     order:
+      - Camping.md
       - Day visit.md
