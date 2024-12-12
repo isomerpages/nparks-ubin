@@ -4,7 +4,7 @@ permalink: /day-visit/
 variant: tiptap
 description: ""
 ---
-<p>Exploring Ubin starts.....<strong>.(elaborate more) </strong>
+<p>Exploring Ubin starts.....<strong>.(elaborate more)</strong>
 </p>
 <p></p>
 <p>First stop - Nature Gallery</p>
