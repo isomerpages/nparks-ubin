@@ -2,6 +2,5 @@ collections:
   visitor-profile:
     output: true
     order:
-      - Group Activities.md
       - Recreational activities.md
       - Day visit.md
