@@ -1,4 +1,5 @@
 collections:
   visitor-profile:
     output: true
-    order: []
+    order:
+      - Day visit.md
