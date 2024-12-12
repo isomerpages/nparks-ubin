@@ -4,11 +4,12 @@ permalink: /day-visit/
 variant: tiptap
 description: ""
 ---
-<p>Exploring Ubin starts.....<strong>.(elaborate more)</strong>
+<p>Exploring Ubin starts.....<strong>.(elaborate more) </strong>
 </p>
 <p></p>
 <p>First stop - Nature Gallery</p>
-<p>Main village - bicycle rental, restaurant, wayang stage, temple</p>
+<p>Main village - bicycle rental, restaurant, wayang stage, Tua pek kong
+temple</p>
 <p>Sensory trail - mangrove, beach, sensory trail pond</p>
 <p>Ubin Fruit Orchard</p>
 <p>Malay Kampong( village</p>
