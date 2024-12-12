@@ -55,7 +55,7 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-        - title: Camping trip
+        - title: Group Activities
           description: Card description
           linktext: Learn more
           url: ""
