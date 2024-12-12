@@ -15,11 +15,7 @@ the bumboat operator.&nbsp;</p>
 <p>Please make prior arrangements with boat operators if you plan to leave
 Pulau Ubin after 6pm.</p>
 <p>Once on the island you may explore the designated trails by walking, cycling
-or hiring one of the local van services. To get ready for your visit to
-Pulau Ubin, you are encouraged to watch the video below.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/loyF-5i8hck?si=pubMuRRE4X994SFZ"></iframe>
-</div>
+or hiring one of the local van services</p>
 <p><strong>Click on the image below to view the Pulau Ubin map.</strong>
 </p>
 <p></p>
