@@ -2,6 +2,7 @@ collections:
   visit:
     output: true
     order:
+      - Getting to Ubin.md
       - Flood Risk.md
       - Pulau Ubin.md
       - Directions.md
