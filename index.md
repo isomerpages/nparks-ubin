@@ -45,4 +45,26 @@ sections:
       url: /the-next-bound/
       image: /images/Pekan_quarry_floating_wetlands_2.jpg
       alt: Pekan Quarry Floating Wetland
+  - textcards:
+      title: What type of visitor are you
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Day visit
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Camping trip
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Fishing
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Nature enthusiast
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
