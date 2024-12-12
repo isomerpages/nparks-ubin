@@ -2,5 +2,4 @@ collections:
   activities:
     output: true
     order:
-      - Camping.md
       - Fishing.md
