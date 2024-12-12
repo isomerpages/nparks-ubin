@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Recreational activities.md
-      - Fishing.md
       - Camping.md
       - Day visit.md
