@@ -4,18 +4,34 @@ title: Pulau Ubin Website
 description: Brief site description here
 image: /images/Annotation_2023_12_21_131945__2_.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 1. For safety, please do not enter when the area is flooded.
+  During and immediately after bad weather, seek cover at the nearest shelter
+  available and avoid entering forested areas, including nature reserves and
+  nature parks. VisitNEA or dial 65427788 for weather forecast. 2. Box Jellyfish
+  sighting............
 sections:
   - hero:
-      title: Ubin Tides
+      title: Pulau Ubin
       background: /images/Duck_family.jpg
-      variant: floating
-      subtitle: Read our newsletter to get the latest buzz on Pulau Ubin!
+      variant: center
       backgroundColor: gray
       alignment: right
       size: md
-      button: Click here to find out more
+      button: Visitor information
       url: https//google.com
+      key_highlights:
+        - title: The Ubin Project
+          description: ""
+          url: ""
+        - title: Biodiversity
+          description: ""
+          url: ""
+        - title: Heritage
+          description: ""
+          url: ""
+        - title: Ubin Tides
+          description: ""
+          url: ""
   - textcards:
       title: Recreational activities
       id: textcards
