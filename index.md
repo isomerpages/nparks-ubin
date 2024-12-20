@@ -22,7 +22,7 @@ sections:
       key_highlights:
         - title: The Ubin Project
           description: ""
-          url: ""
+          url: /aboutubinproject/
         - title: Biodiversity
           description: ""
           url: ""
