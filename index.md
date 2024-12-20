@@ -32,27 +32,6 @@ sections:
         - title: Ubin Tides
           description: ""
           url: ""
-  - textcards:
-      title: Recreational activities
-      id: textcards
-      cards:
-        - title: Camping
-          description: Gather your friends and families and spend a fun day or two at the
-            island!
-          linktext: Learn more
-          url: /camping/
-        - title: Cycling
-          description: For leisure or thrill, you can enjoy both at Ubin.
-          linktext: Learn more
-          url: ""
-        - title: Nature appreciation
-          description: Explore the wild side of Singapore.
-          linktext: Learn more
-          url: ""
-        - title: Fishing
-          description: Head on to Pulau Ubin for a fishing adventure.
-          linktext: Learn more
-          url: /fishing/
   - infopic:
       title: The Ubin Project
       subtitle: The Next Bound
@@ -62,25 +41,25 @@ sections:
       image: /images/Pekan_quarry_floating_wetlands_2.jpg
       alt: Pekan Quarry Floating Wetland
   - textcards:
-      title: What type of visitor are you
+      title: Plan your visit
       subtitle: Add informational text
       id: textcards
       description: Text card description
       cards:
-        - title: Day visit
-          description: Card description
+        - title: Discover
+          description: Self-guided walks
           linktext: Learn more
           url: ""
-        - title: Group Activities
-          description: Card description
+        - title: Organised Groups
+          description: Permits & Venue Booking
           linktext: Learn more
           url: ""
         - title: Recreational activities
-          description: ""
+          description: Fishing, camping, cycling
           linktext: Learn more
           url: ""
-        - title: Nature enthusiast
-          description: Card description
+        - title: Ubin School
+          description: Education
           linktext: Learn more
           url: ""
 ---
