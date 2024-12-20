@@ -67,4 +67,10 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infobar:
+      title: The Ubin Project
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
