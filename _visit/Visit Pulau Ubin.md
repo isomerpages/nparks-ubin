@@ -7,13 +7,13 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>About Pulau Ubin</summary>
+<summary>Getting Here</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Getting Here</summary>
+<summary>Discover</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -26,6 +26,12 @@ description: ""
 </details>
 <details class="isomer-details">
 <summary>Useful Links</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Important Notices</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
