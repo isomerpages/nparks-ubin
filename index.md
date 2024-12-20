@@ -18,7 +18,7 @@ sections:
       alignment: right
       size: md
       button: Visitor information
-      url: https//google.com
+      url: /visitubin/
       key_highlights:
         - title: The Ubin Project
           description: ""
