@@ -58,7 +58,7 @@ sections:
           description: Fishing, camping, cycling
           linktext: Learn more
           url: ""
-        - title: Ubin School
+        - title: Ubin School Initiatives
           description: Education
           linktext: Learn more
           url: ""
