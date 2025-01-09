@@ -29,7 +29,7 @@ sections:
         - title: Heritage
           description: ""
           url: ""
-        - title: Ubin Tides
+        - title: Ubin Tides Newsletter
           description: ""
           url: ""
   - infopic:
