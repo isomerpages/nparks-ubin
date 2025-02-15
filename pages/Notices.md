@@ -43,7 +43,7 @@ on Pulau Ubin.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Box Jellyfish </strong>
+<summary><strong>Box Jellyfish</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Box jellyfish have been spotted in Singapore waters in recent months.
