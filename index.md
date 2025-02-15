@@ -59,6 +59,12 @@ sections:
             safety, please do not enter when the area is flooded.
           link_text: Flood risk
           link_url: /flood-risk/
+        - title: Bicycle, Personal Mobility Device, Motorised Bicycle
+          date: 15 February 2025
+          announcement: Please read notice for the use of shared bicycles, perosonal
+            mobility devices and motorised bicycles on Pulau Ubin.
+          link_text: Notice
+          link_url: /notice/
   - infopic:
       title: The Ubin Project
       subtitle: The Next Bound
