@@ -1,4 +1,6 @@
 collections:
   notice:
     output: true
-    order: []
+    order:
+      - Notice for usage of bicycles, perosonal mobility devices and motorised
+        vehicles.md
