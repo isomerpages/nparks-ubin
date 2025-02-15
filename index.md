@@ -53,12 +53,12 @@ sections:
             weather forecast.
           link_text: NEA website
           link_url: https://www.weather.gov.sg/home/
-        - title: New Announcement
+        - title: Flood Risk
           date: 15 February 2025
           announcement: Some areas may be flooded due to higher tides and bad weather. For
             safety, please do not enter when the area is flooded.
           link_text: Flood risk
-          link_url: /floodrisk
+          link_url: /flood-risk/
   - infopic:
       title: The Ubin Project
       subtitle: The Next Bound
