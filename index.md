@@ -65,6 +65,13 @@ sections:
             mobility devices and motorised bicycles on Pulau Ubin.
           link_text: Notice
           link_url: /notice-for-usage-of-bicycles-perosonal-mobility-devices-and-motorised-vehicles/
+        - title: Ubin Living Lab toilet shower facilities
+          date: 15 February 2025
+          announcement: The Ubin Living Lab toilet shower and tap facilities are
+            undergoing maintenance and are temporarily unavailable for use. The
+            other toilet functions remain open and available.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: The Ubin Project
       subtitle: The Next Bound
