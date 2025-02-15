@@ -64,7 +64,7 @@ sections:
           announcement: Please read notice for the use of shared bicycles, perosonal
             mobility devices and motorised bicycles on Pulau Ubin.
           link_text: Notice
-          link_url: /notice/
+          link_url: /notice-for-usage-of-bicycles-perosonal-mobility-devices-and-motorised-vehicles/
   - infopic:
       title: The Ubin Project
       subtitle: The Next Bound
