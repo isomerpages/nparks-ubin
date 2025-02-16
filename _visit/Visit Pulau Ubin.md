@@ -31,7 +31,8 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>Important Notices</summary>
+<summary><a href="/notices/" rel="noopener nofollow" target="_blank">Important notices</a>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
