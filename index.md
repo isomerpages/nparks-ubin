@@ -32,46 +32,6 @@ sections:
         - title: Ubin Tides Newsletter
           description: ""
           url: ""
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Suspension of Chek Jawa Wetlands Tour
-          date: 15 February 2025
-          announcement: The Chek Jawa Wetlands Tour is suspended until further notice due
-            to maintenance works for the floating pontoon.  Chek Jawa Wetlands,
-            including the Coastal and Mangrove Boardwalks, Jejawi Tower and
-            Visitor Centre remain open from 7am to 7pm daily.
-          link_text: ""
-          link_url: ""
-        - title: Safety during bad weather
-          date: 15 February 2025
-          announcement: Seek cover at the nearest shelter available and avoid entering
-            forested areas, including nature reserves and natures parks during
-            and immediately after bad weather. Visit NEA or dial 65427788 for
-            weather forecast.
-          link_text: NEA website
-          link_url: https://www.weather.gov.sg/home/
-        - title: Flood Risk
-          date: 15 February 2025
-          announcement: Some areas may be flooded due to higher tides and bad weather. For
-            safety, please do not enter when the area is flooded.
-          link_text: Flood risk
-          link_url: /flood-risk/
-        - title: Bicycle, Personal Mobility Device, Motorised Bicycle
-          date: 15 February 2025
-          announcement: Please read notice for the use of shared bicycles, perosonal
-            mobility devices and motorised bicycles on Pulau Ubin.
-          link_text: Notice
-          link_url: /notice-for-usage-of-bicycles-perosonal-mobility-devices-and-motorised-vehicles/
-        - title: Ubin Living Lab toilet shower facilities
-          date: 15 February 2025
-          announcement: The Ubin Living Lab toilet shower and tap facilities are
-            undergoing maintenance and are temporarily unavailable for use. The
-            other toilet functions remain open and available.
-          link_text: ""
-          link_url: ""
   - infopic:
       title: The Ubin Project
       subtitle: The Next Bound
