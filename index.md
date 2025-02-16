@@ -43,15 +43,15 @@ sections:
       description: Text card description
       cards:
         - title: Discover
-          description: Self-guided walks
+          description: Guided walks & Self-guided Walks
           linktext: Learn more
           url: ""
         - title: Organised Groups
           description: Permits & Venue Booking
           linktext: Learn more
           url: ""
-        - title: Recreational activities
-          description: Fishing, camping, cycling
+        - title: Recreational Activities
+          description: Fishing, Camping, Cycling
           linktext: Learn more
           url: ""
         - title: Ubin School Initiatives
