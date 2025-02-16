@@ -33,5 +33,3 @@ tour is cancelled due to inclement weather, your payment will be refunded.</p>
 5\. For safety reasons, tours might be canceled in the event of inclement weather (lightning or heavy rain).
 
 We seek your cooperation to ensure the long-term sustainability of Pulau Ubin.</p>
-	
-	
