@@ -4,11 +4,7 @@ title: Pulau Ubin Website
 description: Brief site description here
 image: /images/Annotation_2023_12_21_131945__2_.png
 permalink: /
-notification: 1. For safety, please do not enter when the area is flooded.
-  During and immediately after bad weather, seek cover at the nearest shelter
-  available and avoid entering forested areas, including nature reserves and
-  nature parks. VisitNEA or dial 65427788 for weather forecast. 2. Box Jellyfish
-  sighting............
+notification: ""
 sections:
   - hero:
       title: Pulau Ubin
