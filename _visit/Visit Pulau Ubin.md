@@ -34,7 +34,7 @@ description: ""
 <summary><a href="/notices/" rel="noopener nofollow" target="_blank">Important notices</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Please refer to the notices before your visit to know any latest update.</p>
 </div>
 </details>
 </div>
