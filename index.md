@@ -38,14 +38,12 @@ sections:
       alt: Pekan Quarry Floating Wetland
   - textcards:
       title: Plan your visit
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: Discover
           description: Guided walks & Self-guided Walks
           linktext: Learn more
-          url: ""
+          url: /Discover/
         - title: Organised Groups
           description: Permits & Venue Booking
           linktext: Learn more
