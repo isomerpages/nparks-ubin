@@ -43,7 +43,7 @@ sections:
         - title: Discover
           description: Guided walks & Self-guided Walks
           linktext: Learn more
-          url: /Discover/
+          url: /discover/
         - title: Organised Groups
           description: Permits & Venue Booking
           linktext: Learn more
