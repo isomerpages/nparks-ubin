@@ -42,7 +42,7 @@ the video below.</p>
 on Pulau Ubin.</div>
 <div class="isomer-card-link">Download</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Rustic Reflections Tour</div><div class="isomer-card-description">Learn about the history and heritage of Pulau Ubin. </div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Rustic Reflections Tour</div><div class="isomer-card-description">Learn about the history and heritage of Pulau Ubin.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kampong Tour</div>
@@ -50,7 +50,13 @@ on Pulau Ubin.</div>
 heritage.</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chek Jawa Wetlands Tour</div><div class="isomer-card-description">*Suspended till further notice*
-Our nature guides will be on hand to bring you on a one-hour tour to experience Chek Jawa’s amazing natural heritage.</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chek Jawa Wetlands Tour</div><div class="isomer-card-description">*Suspended till further notice* Our nature guides will be on hand to bring you on a one-hour tour to experience Chek Jawa’s amazing natural heritage.</div><div class="isomer-card-link">Click here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Virtual Tours</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">Click here</div>
+</div>
+</a>
 </div>
 <p></p>
