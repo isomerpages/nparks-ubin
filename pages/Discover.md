@@ -28,3 +28,20 @@ and nature parks during and immediately after bad weather. Visit&nbsp;<strong><a
 dial 65427788 for the weather forecast.</p>
 <p><strong><a href="https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts" rel="noopener noreferrer" target="_blank">Heed parks and nature reserves etiquette.</a></strong>
 </p>
+<p>To get ready for your visit to Pulau Ubin, you are encouraged to watch
+the video below.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/loyF-5i8hck?si=U0-n8W3AEY8Wqd3q"></iframe>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Pulau Ubin - Tree Trail</div><div class="isomer-card-description">Experience Pulau Ubin’s rustic atmosphere and get a good insight of village life as you embark on this well-shaded trail. </div><div class="isomer-card-link">Download</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Heritage Trees of Pulau Ubin</div>
+<div class="isomer-card-description">This trail guide introduces you to six Heritage Trees that can be found
+on Pulau Ubin.</div>
+<div class="isomer-card-link">Download</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
