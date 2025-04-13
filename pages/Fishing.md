@@ -10,8 +10,7 @@ Do note the following important points.</p>
 <p>- Keep a distance from other park users.</p>
 <p>- Be kind to nature; take your rubbish, lines and hooks with you.</p>
 <p>- Leave nothing behind but footprints.</p>
-<p><strong>-&gt;insert popular fishing spots</strong>
-</p>
+<p></p>
 <p><strong>Please note:</strong>
 </p>
 <p><strong>Fishing is prohibited at all quarries in Ubin.</strong>
