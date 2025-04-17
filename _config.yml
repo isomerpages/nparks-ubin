@@ -53,7 +53,7 @@ staging: https://staging.d2c76hce136bi9.amplifyapp.com
 prod: https://master.d2c76hce136bi9.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/Annotation_2023_12_21_131945__2_.png
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: ubin
