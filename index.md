@@ -37,23 +37,23 @@ sections:
       image: /images/Pekan_quarry_floating_wetlands_2.jpg
       alt: Pekan Quarry Floating Wetland
   - textcards:
-      title: Plan your visit
+      title: Plan Your Visit
       id: textcards
       cards:
         - title: Discover
-          description: Guided walks & Self-guided Walks
+          description: Guided Walks & Self-guided Walks
           linktext: Learn more
           url: /discover/
-        - title: Organised Groups
-          description: Permits & Venue Booking
-          linktext: Learn more
-          url: ""
         - title: Recreational Activities
           description: Fishing, Camping, Cycling
           linktext: Learn more
           url: ""
-        - title: Ubin School Initiatives
-          description: Education
+        - title: Ubin School Initiative
+          description: Education Programmes & Learning Resources
+          linktext: Learn more
+          url: ""
+        - title: Permits
+          description: Organised Group Activity Permit Application & Venue Booking
           linktext: Learn more
           url: ""
 ---
