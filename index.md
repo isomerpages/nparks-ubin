@@ -30,7 +30,7 @@ sections:
           url: ""
   - infopic:
       title: The Ubin Project
-      subtitle: The Next Bound Of
+      subtitle: Next Bound Of
       id: infopic
       button: Find out more
       url: /the-next-bound/
