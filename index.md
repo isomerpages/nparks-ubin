@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Pulau Ubin
-      background: /images/Duck_family.jpg
+      background: /images/Pekan_quarry_floating_wetlands_2.jpg
       variant: center
       backgroundColor: gray
       alignment: right
