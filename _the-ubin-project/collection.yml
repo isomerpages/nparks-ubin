@@ -2,7 +2,7 @@ collections:
   the-ubin-project:
     output: true
     order:
-      - The Next Bound.md
+      - Next Bound Of The Ubin Project.md
       - About the Project.md
       - Friends of Ubin Network (FUN).md
       - Ubin Tides Newsletter.md
