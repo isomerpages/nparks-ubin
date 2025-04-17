@@ -28,6 +28,11 @@ sections:
         - title: Ubin Tides Newsletter
           description: ""
           url: ""
+  - infobar:
+      title: Pesta Ubin & Ubin Day 2025
+      id: infobar
+      button: Click here
+      url: /homepage/
   - infopic:
       title: The Ubin Project
       subtitle: Next Bound Of
