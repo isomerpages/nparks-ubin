@@ -51,6 +51,9 @@ Malays of Bugis and Javanese origins.</p>
 <p>Click <strong><a href="https://www.youtube.com/watch?v=s882nfgbdZc&amp;t=220s" rel="noopener noreferrer" target="_blank">here</a></strong> to
 watch a 30-minute Chinese television feature by the Singapore Broadcasting
 Corporation (now MediaCorp) in 1990.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s882nfgbdZc?si=8JDQT70X44ZffGhy"></iframe>
+</div>
 <p><strong>Golden Age of Granite Mining</strong>
 </p>
 <p>By the mid-1800s, a sizable Chinese community moved to the island to work
@@ -67,9 +70,6 @@ coconut, durian, tobacco and rubber plantations were started at different
 times across the island.
 <br>Other activities included prawn farming, fishing and poultry rearing.</p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s882nfgbdZc?si=8JDQT70X44ZffGhy"></iframe>
-</div>
 <p>
 <br>
 <br>
