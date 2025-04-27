@@ -68,10 +68,7 @@ quarries operated on the island. Besides granite quarrying, the island
 was also opened up for commercial crop cultivation. Coffee, nutmeg, pineapple,
 coconut, durian, tobacco and rubber plantations were started at different
 times across the island.
-<br>Other activities included prawn farming, fishing and poultry rearing.</p>
-<p></p>
-<p>
-<br>
+<br>Other activities included prawn farming, fishing and poultry rearing.
 <br>
 <br><strong>Rise of the Ubin Inhabitants</strong>
 </p>
