@@ -28,6 +28,11 @@ sections:
         - title: Ubin Tides Newsletter
           description: ""
           url: ""
+  - infobar:
+      title: Pesta Ubin & Ubin Day
+      id: infobar
+      button: Click here
+      url: /google/
   - infopic:
       title: The Ubin Project
       subtitle: Next Bound Of
@@ -56,9 +61,4 @@ sections:
           description: Organised Group Activity Permit Application & Venue Booking
           linktext: Learn more
           url: ""
-  - infobar:
-      title: Pesta Ubin & Ubin Day
-      id: infobar
-      button: Click here
-      url: /google/
 ---
