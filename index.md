@@ -56,7 +56,7 @@ sections:
         - title: Ubin School Initiative
           description: Education Programmes & Learning Resources
           linktext: Learn more
-          url: ""
+          url: /ubin-school-initiative/
         - title: Permits
           description: Organised Group Activity Permit Application & Venue Booking
           linktext: Learn more
