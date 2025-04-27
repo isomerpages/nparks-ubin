@@ -3,12 +3,12 @@ url: https://ubin.nparks.gov.sg
 favicon: /images/Annotation_2023_12_21_131945__2_.png
 colors:
   primary-color: "#215732"
-  secondary-color: "#7a9a01"
+  secondary-color: "#744f28"
   media-colors:
     - title: media-color-one
       color: "#ddcba4"
     - title: media-color-two
-      color: "#744f28"
+      color: "#7a9a01"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
