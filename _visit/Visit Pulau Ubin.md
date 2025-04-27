@@ -73,7 +73,7 @@ are usually on raised platforms while the dining rooms, kitchens, and toilets
 are built on the ground.</p>
 <p>You can stop here for a break and have a drink from one the houses. The
 owner usually operates during weekend.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Open fire cooking</strong>
 </p>
 <p>If you are camping at Ubin, you can bring your own food and cook your
