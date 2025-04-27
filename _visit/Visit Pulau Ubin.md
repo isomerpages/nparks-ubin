@@ -44,7 +44,7 @@ board Bus no 2 at Exit B to Changi Village Bus Interchange</p>
 <br>&nbsp;51 Lorong Bekukong
 <br>
 </p>
-<p><strong>Cycling:</strong>&nbsp;Click here for the guide to&nbsp;<strong><a href="https://www.nparks.gov.sg/~/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/00-pcn-overview-page/ecpcn_d5.ashx" rel="noopener noreferrer nofollow" target="_blank">East Coast Park Connector &nbsp;Network Cycling Trail</a></strong>&nbsp;and&nbsp;<strong><a href="https://www.nparks.gov.sg/~/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/00-pcn-overview-page/ecl-eguide-15042016.pdf" rel="noopener noreferrer nofollow" target="_blank">Eastern Coastal Loop</a></strong>.&nbsp;</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
