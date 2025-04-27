@@ -60,5 +60,5 @@ sections:
         - title: Permits
           description: Organised Group Activity Permit Application & Venue Booking
           linktext: Learn more
-          url: ""
+          url: /permits/
 ---
