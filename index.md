@@ -56,4 +56,9 @@ sections:
           description: Organised Group Activity Permit Application & Venue Booking
           linktext: Learn more
           url: ""
+  - infobar:
+      title: Pesta Ubin & Ubin Day
+      id: infobar
+      button: Click here
+      url: /google/
 ---
