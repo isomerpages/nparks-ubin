@@ -52,7 +52,7 @@ sections:
         - title: Recreational Activities
           description: Fishing, Camping, Cycling
           linktext: Learn more
-          url: ""
+          url: /recreational-activities/
         - title: Ubin School Initiative
           description: Education Programmes & Learning Resources
           linktext: Learn more
