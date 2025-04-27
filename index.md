@@ -32,7 +32,7 @@ sections:
       title: Pesta Ubin & Ubin Day
       id: infobar
       button: Click here
-      url: /google/
+      url: /pesta-ubin-ubin-day/
   - infopic:
       title: The Ubin Project
       subtitle: Next Bound Of
