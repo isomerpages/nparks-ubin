@@ -16,13 +16,13 @@ sections:
       button: Visitor information
       url: /visitubin/
       key_highlights:
-        - title: The Ubin Project
+        - title: Notice
           description: ""
           url: /aboutubinproject/
-        - title: Biodiversity
+        - title: Volunteer
           description: ""
           url: ""
-        - title: Heritage
+        - title: Biodiversity & Heritage
           description: ""
           url: ""
         - title: Ubin Tides Newsletter
