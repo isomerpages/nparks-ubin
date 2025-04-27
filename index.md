@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: Notice
           description: ""
-          url: /aboutubinproject/
+          url: /notices/
         - title: Volunteer
           description: ""
           url: ""
