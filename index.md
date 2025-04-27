@@ -16,7 +16,7 @@ sections:
       button: Visitor information
       url: /visitubin/
       key_highlights:
-        - title: Notice
+        - title: Notices
           description: ""
           url: /notices/
         - title: Volunteer
