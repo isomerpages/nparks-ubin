@@ -21,7 +21,7 @@ sections:
           url: /notices/
         - title: Volunteer
           description: ""
-          url: ""
+          url: /volunteer/
         - title: Biodiversity & Heritage
           description: ""
           url: /biodiversity-and-heritage-of-pulau-ubin/
