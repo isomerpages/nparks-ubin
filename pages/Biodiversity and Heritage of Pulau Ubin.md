@@ -34,7 +34,7 @@ of mangroves and rehabilitation of freshwater ponds, as well as species
 recovery projects like the <strong><a href="https://www.nparks.gov.sg/-/media/cuge/ebook/citygreen/cg4/cg4_14.pdf?la=en&amp;hash=0463E2630FB091E0BE1AA5B6AEA70AD27CC43FF0" rel="noopener noreferrer nofollow" target="_blank">Singapore Hornbill Project</a></strong> and
 Butterfly Hill, are also in place.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Places of interest</div><div class="isomer-card-description">Explore the wildside of Pulau Ubin</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biodiversity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Places of interest</div><div class="isomer-card-description">Explore the wildside of Pulau Ubin</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 <hr>
 <h2>Kampong Life</h2>
@@ -124,6 +124,6 @@ diesel generators for electricity. In 2013, the Energy Market Authority
 to generate electricity in a less pollutive and more environmentally sustainable
 manner for residents and businesses at the jetty area.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Places of interest</div><div class="isomer-card-description">Explore the Kampong life in Pulau Ubin</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/heritage/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Places of interest</div><div class="isomer-card-description">Explore the Kampong life in Pulau Ubin</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
