@@ -13,8 +13,6 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
-      button: Visitor information
-      url: /visitubin/
       key_highlights:
         - title: Notices
           description: ""
@@ -45,10 +43,10 @@ sections:
       title: Plan Your Visit
       id: textcards
       cards:
-        - title: Discover
-          description: Guided Walks & Self-guided Walks
-          linktext: Learn more
-          url: /discover/
+        - title: Visitor Information
+          description: Getting here
+          linktext: Click here
+          url: /visitubin/
         - title: Recreational Activities
           description: Fishing, Camping, Cycling, Hiking
           linktext: Learn more
