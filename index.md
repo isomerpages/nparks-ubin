@@ -14,16 +14,16 @@ sections:
       alignment: right
       size: md
       key_highlights:
+        - title: Map & E-Brochure
+          description: ""
+          url: /notices/
         - title: Notices
           description: ""
           url: /notices/
-        - title: Volunteer
-          description: ""
-          url: /volunteer/
-        - title: Biodiversity & Heritage
+        - title: Ubin Tide Newsletter
           description: ""
           url: /biodiversity-and-heritage-of-pulau-ubin/
-        - title: Ubin Tides Newsletter
+        - title: Useful Links
           description: ""
           url: ""
   - infobar:
