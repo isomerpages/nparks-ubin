@@ -16,7 +16,7 @@ and Mangrove Boardwalks, Jejawi Tower and Visitor Centre remain open from
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Safety during bad weather</strong>
+<summary><strong>Safety During Bad Weather</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Seek cover at the nearest shelter available and avoid entering forested
