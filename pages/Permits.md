@@ -4,6 +4,8 @@ permalink: /permits/
 variant: tiptap
 description: ""
 ---
+<p><strong>Events and organised groups</strong>
+</p>
 <p>Are you looking to hold an event in Ubin? With vast open spaces amidst
 lush greenery, our venues are suitable for all types of functions such
 as concerts, family days, sporting competitions and activities, as well
@@ -41,3 +43,8 @@ least 2 weeks before the date of the activity, or usage date.&nbsp;
 <p>Trail Etiquettes and Parks &amp; Trees Act (Cap .216):&nbsp;
 <br><strong><a href="https://www.nparks.gov.sg/-/media/ubin/forms/application-for-use-of-premises-on-pulau-ubin-(13-aug-2019)pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts</a></strong>
 </p>
+<hr>
+<p>Chek Jawa Wetlands Permit</p>
+<p><a href="/files/CJW_Permit__updated_2023_.pdf" rel="noopener nofollow" target="_blank">Application for Permit to conduct activities to Chek Jawa Wetlands/Sekudu Island, Pulau Ubin</a>
+</p>
+<p></p>
