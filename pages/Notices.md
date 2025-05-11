@@ -51,6 +51,16 @@ For your own safety, please take care precautions before heading to one
 of our beaches. More information on box jellyfish can be found <a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/box-jellyfish" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Notice to Vessel</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/CJW_Notice_To_Vessel_V6.pdf" rel="noopener noreferrer nofollow" target="_blank">Notice to Vessel</a>
+</p>
+<p><a href="/files/Ubin___seachart_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Designation of Chek Jawa Wetlands</a>
+</p>
+</div>
+</details>
 </div>
 <h4>Emergency contacts</h4>
 <p>In case of any emergency or accident, please call 995/999</p>
