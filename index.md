@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Map & E-Brochure
           description: ""
-          url: /notices/
+          url: /maps-and-brochure/
         - title: Notices
           description: ""
           url: /notices/
