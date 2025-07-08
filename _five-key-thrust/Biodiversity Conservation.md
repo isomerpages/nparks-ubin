@@ -97,7 +97,7 @@ a single waterbody, where floating wetlands were installed, attracting
 various birds and animals such as waterhens, crakes, herons, kingfishers,
 dragonfilies, and damselflies.</p>
 <hr>
-<h4><strong>Environmental Studies Reports </strong></h4>
+<h4><strong>Environmental Studies Reports</strong></h4>
 <p>Environmental studies are conducted where required to determine and mitigate
 the potential impact of any new development on the environment. Please
 visit NParks website for relevant <a href="https://www.nparks.gov.sg/nature/environmental-studies-sustainable-development" rel="noopener noreferrer nofollow" target="_blank">Environmental studies for sustainable development</a>
