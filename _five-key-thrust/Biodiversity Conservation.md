@@ -14,8 +14,7 @@ and conserve Pulau Ubin, which gave rise to The Ubin Project. Some of the
 ideas under The Ubin Project were contributed by the public and reviewed
 through FUN members. Among these ideas, initiatives such as species recovery
 projects and habitat enhancement were put forth and implemented.</p>
-<h4>Species recovery projects</h4>
-<hr>
+<h4><strong>Species Recovery Projects</strong></h4>
 <p><strong>Bats</strong>
 </p>
 <p>Pulau Ubin is home to several bat species, including the Critically Endangered
@@ -80,7 +79,9 @@ is one of the rarest mangrove trees, with only about 200 left worldwide.
 A total of 13 trees are found and over 20 saplings have been planted on
 the island.</p>
 <hr>
-<h4>Habitat enhancement projects</h4>
+<h4><strong>Habitat Enhancement Projects</strong></h4>
+<p><strong>Pekan Quarry Floating Wetlands</strong>
+</p>
 <p>In the past, Pulau Ubin was used for agriculture and granite quarrying,
 which affected the quality of existing habitats and led to the creation
 of new environments (namely granite quarries) that were less conducive
@@ -88,8 +89,16 @@ for native wildlife. Habitat enhancement is employed to modify sites to
 increase the quality of the site or to produce conditions that did not
 use to exist so that biodiversity can thrive. Habitat enhancement projects
 include shoreline restoration, reforestation and freshwater habitat enrichment.</p>
+<hr>
+<p><strong>Sensory Trail Pond</strong>
+</p>
 <p>Four former fish farming ponds at the Sensory Trail were combined into
 a single waterbody, where floating wetlands were installed, attracting
 various birds and animals such as waterhens, crakes, herons, kingfishers,
 dragonfilies, and damselflies.</p>
-<p></p>
+<hr>
+<h4><strong>Environmental Studies Reports </strong></h4>
+<p>Environmental studies are conducted where required to determine and mitigate
+the potential impact of any new development on the environment. Please
+visit NParks website for relevant <a href="https://www.nparks.gov.sg/nature/environmental-studies-sustainable-development" rel="noopener noreferrer nofollow" target="_blank">Environmental studies for sustainable development</a>
+</p>
