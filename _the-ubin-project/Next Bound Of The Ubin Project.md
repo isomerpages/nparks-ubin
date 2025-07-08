@@ -4,7 +4,7 @@ permalink: /the-next-bound/
 variant: tiptap
 description: Next Bound
 ---
-<h1><strong>Next bound of The Ubin Project</strong></h1>
+<h4>Next bound of The Ubin Project</h4>
 <p>In 2021, the National Parks Board (NParks) and the Friends of Ubin Network
 (FUN) kickstarted discussions to chart the future direction of Pulau Ubin.
 Focus group discussions with FUN members were carried out from 2022 to
@@ -103,11 +103,10 @@ will aim to showcase Pulau Ubin’s rich cultural heritage and history.</p>
 <p>NParks is rolling out the Ubin School initiative in partnership with Outward
 Bound Singapore (OBS) and with the support of various primary and secondary
 schools. This initiative will feature a suite of programmes based at the
-Ubin Living Lab &nbsp;that incorporate projects under The Ubin Project,
-involve the Pulau Ubin community, and celebrate the island’s rich natural
-and cultural heritage. The programmes aim to promote environmental education
-and stewardship among youths through multi-disciplinary programming and
-experiential learning.</p>
+Ubin Living Lab that incorporate projects under The Ubin Project, involve
+the Pulau Ubin community, and celebrate the island’s rich natural and cultural
+heritage. The programmes aim to promote environmental education and stewardship
+among youths through multi-disciplinary programming and experiential learning.</p>
 <p>In the long run, the Workgroup envisions conducting pilot capacity-building
 workshops for teachers and tapping on potential collaborators to run the
 programmes and benefit more students.</p>
