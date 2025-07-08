@@ -4,42 +4,7 @@ permalink: /biodiversity-and-heritage-of-pulau-ubin/
 variant: tiptap
 description: ""
 ---
-<h1><strong>A Treasure Trove of Biodiversity&nbsp;</strong></h1>
-<p>Pulau Ubin is a hotspot for nature lovers due to its rich wildlife. The
-National Parks Board (NParks) estimates that the island has over&nbsp;786
-native plants, 242 birds, 201 butterflies, 89 mammals, reptiles &amp; amphibians.
-Many of these species are very rare and some are not found on mainland
-Singapore.</p>
-<p>Pulau Ubin is also a key sanctuary for wildlife such as the <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/1/11" rel="noopener noreferrer nofollow" target="_blank">Greater Mousedeer</a></strong>,
-bats like the <strong><a href="https://www.facebook.com/nparksbuzz/posts/the-ashy-roundleaf-bat-hipposideros-cineraceus-was-first-recorded-on-pulau-ubin-/1960144947358305/" rel="noopener noreferrer nofollow" target="_blank">Ashy Roundleaf Bat</a></strong> and <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/2/1/219" rel="noopener noreferrer nofollow" target="_blank">Lesser False Vampire</a></strong>,
-and birds like the <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/6/36" rel="noopener noreferrer nofollow" target="_blank">Straw-headed Bulbul</a></strong>, <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/2/7/276" rel="noopener noreferrer nofollow" target="_blank">Mangrove Pitta</a></strong>, <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/6/3/630" rel="noopener noreferrer nofollow" target="_blank">Barred Eagle Owl</a></strong> and <strong><a href="https://www.nparks.gov.sg/nparksbuzz/nov-issue-2020/conservation/in-the-lonely-'owl'" rel="noopener noreferrer nofollow" target="_blank">Brown Wood Owl</a></strong>.
-Pulau Ubin hosts the largest mangrove areas in Singapore and almost all
-mangrove plant species known to Singapore can be found here, including
-one of the rarest mangrove species in the world, the “<strong><a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/0/4002" rel="noopener noreferrer nofollow" target="_blank">Eye of the Crocodile</a></strong>”.&nbsp;</p>
-<p>One of Pulau Ubin’s key attractions is Chek Jawa Wetlands, located on
-the eastern coast of the island. It has one of Singapore’s richest ecosystems,
-where 6 major habitats meet and mix. Each habitat is home to an abundance
-of flora and fauna, such as rare plants as well as local and migratory
-birds. The marine biodiversity here is amazing, with about 500 species,
-according to NParks’ records.</p>
-<p>NParks runs a visitor centre at Chek Jawa with a viewing jetty, over 1
-km of boardwalk and a 21-metre tall viewing tower. Chek Jawa is also home
-to Singapore’s only 2 mangrove Heritage Trees, which are listed in the
-Heritage Tree Register of Singapore. Known as <strong><a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/7/4739" rel="noopener noreferrer nofollow" target="_blank">Perepat</a></strong> or
-Mangrove Apple, they are possibly two of the biggest in Singapore.</p>
-<p>NParks and its volunteers carry out on-going field research and monitoring
-studies, including plant surveys, seagrass monitoring, bird ringing and
-camera trapping. Habitat enhancement efforts like reforestation, restoration
-of mangroves and rehabilitation of freshwater ponds, as well as species
-recovery projects like the <strong><a href="https://www.nparks.gov.sg/-/media/cuge/ebook/citygreen/cg4/cg4_14.pdf?la=en&amp;hash=0463E2630FB091E0BE1AA5B6AEA70AD27CC43FF0" rel="noopener noreferrer nofollow" target="_blank">Singapore Hornbill Project</a></strong> and
-Butterfly Hill, are also in place.</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biodiversity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Places of interest</div><div class="isomer-card-description">Explore the wildside of Pulau Ubin</div><div class="isomer-card-link">Click here</div></div></a>
-</div>
-<hr>
-<h2>Kampong Life</h2>
-<p><strong>Ubin of Yesteryears</strong>
-</p>
+<h4>Ubin of Yesteryears</h4>
 <p>Pulau Ubin was formerly a cluster of 5 smaller islands separated by tidal
 rivers. Local Malays once called the island "Pulau Batu Jubin" or "Granite
 Stone island". This is because, in the old days, the granite from the island
@@ -54,8 +19,8 @@ Corporation (now MediaCorp) in 1990.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s882nfgbdZc?si=8JDQT70X44ZffGhy"></iframe>
 </div>
-<p><strong>Golden Age of Granite Mining</strong>
-</p>
+<hr>
+<h4>Golden Age of Granite Mining</h4>
 <p>By the mid-1800s, a sizable Chinese community moved to the island to work
 at the quarries. Pulau Ubin became a hotbed for granite quarrying. The
 granite was used for the construction of the Horsburgh Lighthouse on Pedra
@@ -70,19 +35,19 @@ coconut, durian, tobacco and rubber plantations were started at different
 times across the island.
 <br>Other activities included prawn farming, fishing and poultry rearing.
 <br>
-<br><strong>Rise of the Ubin Inhabitants</strong>
+<br>
 </p>
+<hr>
+<h4>Rise of the Ubin Inhabitants</h4>
 <p>During the 1880s, around 50 Malay families from the Kallang River in mainland
 Singapore moved to Pulau Ubin to be fishermen. The movement of workers
 and settlers from Singapore added to the population of Pulau Ubin. It led
 to the proliferation of kampongs on the island. Kampongs were established
 near the northern coast at Kampong Noordin, Kampong Bahru, Kampong Mamam
 and Kampong Petai, while Kampong Chek Jawa developed in the eastern side
-of the island.
-<br>
-<br>
-<br><strong>Pulau Ubin's "Kepala"</strong>
-</p>
+of the island.</p>
+<hr>
+<h4>Pulau Ubin's "Kepala"</h4>
 <p>As the population grew larger, the original inhabitants and the new settlers
 to Pulau Ubin soon had to deal with the issue of maintaining social order
 on the island. The original inhabitants resented the arrival of more and
@@ -92,9 +57,9 @@ rivalries from Singapore. There were frequent clashes as each secret society
 claimed to be the “kepala” (head) in Pulau Ubin. The violence ended only
 after the Japanese occupied the island during the Second World War.
 <br>
-<br>
-<br><strong>Decline of Granite Mining</strong>
 </p>
+<hr>
+<h4>Decline of Granite Mining</h4>
 <p>By the 1970s, the granite mining industry began to decline. The last operational
 quarry on the island closed in 1999. Commercial crop cultivation and rubber
 tapping on Pulau Ubin officially ceased in the 1980s.
@@ -102,8 +67,8 @@ tapping on Pulau Ubin officially ceased in the 1980s.
 quarries. During the 1950s to early 1970s, the island had over 2,000 inhabitants.</p>
 <p>Source: Urban Redevelopment Authority, National Parks Board, National
 Heritage Board</p>
-<p><strong>Ubin Today-Traditional Lifestyle</strong>
-</p>
+<hr>
+<h4>Ubin Today-Traditional Lifestyle</h4>
 <p>Pulau Ubin retains much of its 1960s charming kampong setting. With its
 wooden kampong houses and scenic winding forest paths, it offers visitors
 a unique off-the-beaten-track experience. About 38 villagers continue to
