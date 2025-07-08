@@ -1,5 +1,5 @@
 collections:
-  five-key-thrust:
+  five-key-thrusts:
     output: true
     order:
       - Sustainable Design and Practices.md
