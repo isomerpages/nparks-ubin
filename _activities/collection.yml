@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - Ubin School Initiative.md
       - Permits.md
       - Hiking.md
       - Fishing.md
