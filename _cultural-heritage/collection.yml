@@ -2,4 +2,4 @@ collections:
   cultural-heritage:
     output: true
     order:
-      - Heritage.md
+      - Places of Interest.md
