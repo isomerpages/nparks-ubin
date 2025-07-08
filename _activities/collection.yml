@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - Permits.md
       - Hiking.md
       - Fishing.md
       - Cycling.md
