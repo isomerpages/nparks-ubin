@@ -2,4 +2,5 @@ collections:
   cultural-heritage:
     output: true
     order:
+      - Biodiversity and Heritage of Pulau Ubin.md
       - Places of Interest.md
