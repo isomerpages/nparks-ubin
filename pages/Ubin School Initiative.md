@@ -4,8 +4,6 @@ permalink: /ubin-school-initiative/
 variant: tiptap
 description: ""
 ---
-<p><strong>Ubin School initiative</strong>
-</p>
 <p>The Ubin School initiative is a suite of programmes based at the Ubin
 Living Lab (ULL), with the objective to promote environmental education
 and stewardship, while also involving the Ubin community. The framework
@@ -16,14 +14,27 @@ learning space.&nbsp;</p>
 lesson plans will incorporate The Ubin Project initiatives, involve the
 Ubin community and also celebrate Ubin’s rich natural and cultural heritage
 for generations to enjoy.&nbsp;</p>
-<p><strong>Pilot Programmes</strong>
-</p>
-<p>Since the Learning Symposium in 2023, several pilot programmes with partnering
-schools like Commonwealth Secondary School, Meridian Secondary School,
-North Vista Secondary School and Zhangde Primary School, as well as programmes
-for teachers from Academy of Singapore Teachers and National Institute
-of Education.</p>
-<p>Through the Ubin School initiative, participated in activities such as
-tree planting under the OneMillionTrees movement, forest monitoring, and
-also discovered the rich cultural heritage of Ubin, from its earlier days
-used as a quarry and farming, to it now as a home to villagers and biodiversity.</p>
+<p></p>
+<h4>Tapping on citizen science for habitat enhancement efforts</h4>
+<p>To transform Pulau Ubin into a learning classroom set in nature, the Ubin
+School initiative is tapping on citizen science to support habitat enhancement
+efforts for Pulau Ubin. For example, in 2024 and 2025, students from Meridian
+Secondary School contributed to the monitoring of reforestation sites on
+the island by tagging the planted trees and measuring their height and
+girth, supporting long-term ecological data collection.</p>
+<p>This complements other ongoing habitat enhancement efforts with students,
+such as coastal clean-ups and invasive species management.</p>
+<p></p>
+<h4>Experiential learning through interactions with Ubin villagers</h4>
+<p>Several learning journeys conducted this year have involved members of
+the Pulau Ubin community. For instance, as part of their learning journey
+on the changing landscapes of Pulau Ubin and the relationship between the
+island and its villagers, students from North Vista Secondary School’s
+Outdoor Activities Club visited a kampung house and interacted with a villager
+to understand the Ubin way of life. During their visit, students learnt
+about the cultivation of fruit trees and medicinal herbs and had the opportunity
+to experience drawing water from traditional wells. &nbsp;</p>
+<p>Similarly, as part of Commonwealth Secondary School’s STEM elective, Secondary
+3 and 4 students learnt about sustainable practices on the island by observing
+the villagers’ daily routines.</p>
+<p></p>
