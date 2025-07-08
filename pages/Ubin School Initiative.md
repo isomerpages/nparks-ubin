@@ -14,7 +14,9 @@ learning space.&nbsp;</p>
 lesson plans will incorporate The Ubin Project initiatives, involve the
 Ubin community and also celebrate Ubin’s rich natural and cultural heritage
 for generations to enjoy.&nbsp;</p>
-<p></p>
+<p>Contact us if you are interested to foster greater student involvement
+in environmental stewardship in your school <strong><a href="https://go.gov.sg/ubinschoolinitiative" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ubinschoolinitiative.</a></strong>
+</p>
 <h4>Tapping on citizen science for habitat enhancement efforts</h4>
 <p>To transform Pulau Ubin into a learning classroom set in nature, the Ubin
 School initiative is tapping on citizen science to support habitat enhancement
