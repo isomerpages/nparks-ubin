@@ -2,7 +2,6 @@ collections:
   the-ubin-project:
     output: true
     order:
-      - About The Ubin Project.md
       - Next Bound Of The Ubin Project.md
       - Our Common Vision.md
       - Friends of Ubin Network (FUN).md
