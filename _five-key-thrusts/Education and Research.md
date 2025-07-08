@@ -4,33 +4,21 @@ permalink: /education-and-research/
 variant: tiptap
 description: ""
 ---
-<p><strong>Nurturing the Next Generation</strong>
-</p>
-<p>Pulau Ubin is an ideal place to train the next generation to become our
-cultural and natural heritage stewards. A programme is in place to proactively
-engage schools and tertiary institutions on various projects.</p>
-<p>Students from Ngee Ann Polytechnic planted up the <strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/ubin-fruit-orchard" rel="noopener noreferrer" target="_blank">Ubin Fruit Orchard</a></strong>,
-an arboretum of local fruit trees, and contributed to freshwater wetlands
-restoration at the Sensory Trail Pond, from landscape design to planting.
-Republic Polytechnic students designed three out of six models of bat boxes
-which serve as artificial roosts for bats. ITE College East took part in
-species recovery projects, where students fabricated bat boxes and bee-
-eater nest boxes, as well as planting of trees for nesting by the Baya
-Weaver.</p>
-<p>Outward Bound Singapore (OBS) also partners the National Parks Board in
-the care of Pulau Ubin. Project Island-a-Hand sees OBS student participants
-and alumni involved in reforestation projects to restore habitats for wildlife,
-as well as clean-up of the island’s shores.</p>
+<h4>Ubin School initiative</h4>
+<p>The Ubin School initiative was rolled out in 2024 to promote environmental
+education and stewardship among youths through multi-disciplinary programming
+and experiential learning. The initiative’s programmes incorporate projects
+under The Ubin Project, involve the Pulau Ubin community, and celebrate
+the island’s rich natural and cultural heritage.</p>
 <p>Schools have also come aboard as partners for other programmes, including
 the design and fabrication of informative signs, painting of rubbish bins,
 wildlife monitoring, reforestation and nature camps.</p>
-<p></p>
+<hr>
 <h4>Ubin Living Lab</h4>
-<p>The <strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/ubin-living-lab" rel="noopener noreferrer" target="_blank">Ubin Living Lab (ULL)</a></strong> serves
-as an integrated facility for field studies, education and research, and
-community outreach. It is an outdoor learning classroom where activities
-are held to encourage visitors to learn about the biodiversity, heritage
-and culture of Pulau Ubin.
+<p>The Ubin Living Lab (ULL) serves as an integrated facility for field studies,
+education and research, and community outreach. It is an outdoor learning
+classroom where activities are held to encourage visitors to learn about
+the biodiversity, heritage and culture of Pulau Ubin.
 <br>
 <br>Sited at a former resort, the ULL was first announced in November 2014
 as one of the initiatives under The Ubin Project. During the planning stage,
@@ -69,7 +57,6 @@ behind nesting success and failure. Infrared video cameras were installed
 in both natural and artificial nests to capture what happens after a female
 seals herself in to raise her brood of chicks. Cameras outside the nests
 also recorded the activities of the males as they bring food to the nests.
-<br>&nbsp;
 <br>Modern technology was also utilised to study the species. A Global Positioning
 System (GPS) transmitter was attached to a hornbill to obtain information
 on its movement, distribution and breeding territory.</p>
@@ -79,7 +66,6 @@ on its movement, distribution and breeding territory.</p>
 Marcus Chua conducted a survey to get an updated status of medium-sized
 mammals on Pulau Ubin. Line transects and camera trapping were deployed
 in forested areas in the eastern and western parts of the island.
-<br>
 <br>The study produced distribution maps for four species of medium-sized
 mammals – the Common Palm Civet (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/7/477" rel="noopener noreferrer" target="_blank">Paradoxurus hermaphroditus</a></em></strong>),
 Greater Mousedeer (<strong><em><a href="http://https//www.nparks.gov.sg/florafaunaweb/fauna/1/1/11" rel="noopener noreferrer" target="_blank">Tragulus napu</a></em></strong>),
@@ -91,9 +77,7 @@ three species were found in forests in both the east and west.
 <br>The survey also resulted in the rediscovery of the Greater Mousedeer,
 which was last recorded from Singapore in 1923. It was found to be well
 distributed in the study sites and have an existing breeding population.
-<br>
-</p>
-<p>Survey results also suggested the recreational use of the island which
+Survey results also suggested the recreational use of the island which
 mainly takes place during the day does not interfere with the activity
 of the three largely nocturnal species, the Common Palm Civet, Greater
 Mousedeer and Wild Pig.</p>
@@ -130,7 +114,7 @@ flies, 14 termites, and 53 bees and wasps. There is a high percentage of
 long-legged flies and fast-running flies that are found in only one of
 the sites, and this highlights the importance of conserving multiple areas
 of mangrove habitats.</p>
-<p>&nbsp;</p>
+<p></p>
 <hr>
 <h4>Biodiversity Surveys</h4>
 <p>To properly manage Pulau Ubin’s natural heritage, biodiversity surveys
@@ -144,8 +128,7 @@ fireflies and marine biodiversity have been carried out with the help of
 volunteers. A comprehensive survey will commence in late 2017 to update
 these inventories and establish new ones for other groups of wildlife like
 dragonflies and damselflies,&nbsp; bees and wasps, ants, moths and spiders.</p>
-<p>
-<br><strong>BioBlitz </strong>
+<p><strong>BioBlitz </strong>
 <br>The first BioBlitz@Ubin was conducted in December 2016 to provide an updated
 snapshot of Pulau Ubin’s biodiversity. It was also the first 24-hour biodiversity
 survey in Singapore. About 100 citizen scientists worked alongside experts
