@@ -1,4 +1,5 @@
 collections:
   cultural-heritage:
     output: true
-    order: []
+    order:
+      - Heritage.md
