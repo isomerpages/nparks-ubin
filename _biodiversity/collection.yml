@@ -2,6 +2,6 @@ collections:
   biodiversity:
     output: true
     order:
-      - Biodiversity.md
+      - Places of Interest.md
       - Flora and Fauna of Ubin.md
       - Chek Jawa Wetlands Tour.md
