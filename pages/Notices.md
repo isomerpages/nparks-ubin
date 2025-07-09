@@ -61,6 +61,40 @@ of our beaches. More information on box jellyfish can be found <a href="https://
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Beware of impersonation scams</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Government officials will NEVER do these things over a phone call:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ask you to transfer money;</p>
+</li>
+<li>
+<p>Ask you to disclose bank log-in details;</p>
+</li>
+<li>
+<p>Ask you to install mobile apps from unofficial app stores;</p>
+</li>
+<li>
+<p>Transfer your call to Police.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>If you receive an SMS from the government, make sure it is sent from the
+<a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>SMS Sender ID*.</p>
+<p>Scammers may cite your personal information (e.g. name or NRIC number)
+to appear legitimate. Do not automatically trust someone just because he/she
+has your personal information.</p>
+<p></p>
+<p>Call the 24/7 ScamShield Helpline at 1799 to check if you are unsure if
+something is a scam.</p>
+<p>*Exceptions apply for National Service call-ups and emergency services.
+Read more about&nbsp;<a href="https://www.sms.gov.sg/exceptions" rel="noopener noreferrer nofollow" target="_blank">the exceptions.</a> For more information
+on how to protect yourself against scams, pls visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>
+</p>
+</div>
+</details>
 </div>
 <h4>Emergency contacts</h4>
 <p>In case of any emergency or accident, please call 995/999</p>
