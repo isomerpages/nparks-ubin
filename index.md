@@ -24,7 +24,7 @@ sections:
           url: /notices/
         - title: Ubin Tides Newsletter
           description: ""
-          url: /ubin-tide-newsletter/
+          url: /ubin-tides-newsletter/
         - title: Useful Links
           description: ""
           url: /useful-links/
