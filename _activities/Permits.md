@@ -10,7 +10,7 @@ lush greenery, our venues are suitable for all types of functions such
 as concerts, family days, sporting competitions and activities, as well
 as corporate affairs such as company retreats, workshops and meetings.</p>
 <p>Fees are applicable for selected parks and usage of our venues is subject
-to our<strong><a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-venue-usage/terms-and-conditions-for-use-of-premises_22,-d-,07,-d-,22.pdf" rel="noopener noreferrer" target="_blank"> “Terms and Conditions for Use of Premises”. </a></strong>
+to our<strong><a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-venue-usage/terms-and-conditions-for-use-of-premises_22,-d-,07,-d-,22.pdf" rel="noopener noreferrer" target="_blank"> “Terms and Conditions for Use of Premises”.</a></strong>
 </p>
 <p>For booking facilities in Pulau Ubin under NParks, please <strong><a href="https://www2.vbs.nparks.gov.sg/vbs/" rel="noopener noreferrer" target="_blank">click here</a></strong>.&nbsp;&nbsp;</p>
 <hr>
@@ -36,12 +36,26 @@ to our<strong><a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gar
 the <strong><a href="https://form.gov.sg/#!/6216f8a340a8e30012fe1097" rel="noopener noreferrer" target="_blank">application form</a></strong> at
 least 2 weeks before the date of the activity, or usage date.&nbsp;</p>
 <hr>
+<h4>Camping Permit</h4>
+<p>Gather your friends and families and spend a fun day or two at the island!
+Get up close with nature and immerse yourself in the rustic atmosphere.&nbsp;</p>
+<p>Permits are required to set up tents at our campsites, namely Jelutong,
+Mamam and Endut Senin Campsites. Camping. Please apply for a permit at
+least 2 weeks before the camping date and comply with the terms and conditions
+for camping, Find out more<strong>&nbsp;<a href="https://www.nparks.gov.sg/-/media/ubin/camping/pu---camping-permit-tc-(13jan2021).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singaporeans or Permanent Residents can apply for the camping permit via
+the <strong><a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer" target="_blank">AXS system</a></strong> (
+<a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer nofollow" target="_blank">AXS.com.sg</a>).</p>
+</li>
+<li>
+<p>Visitors with short-term visit pass and tourists interested in camping
+on Pulau Ubin can apply via <strong><a href="https://form.gov.sg/686372efacb1a19b41e3de22" rel="noopener noreferrer nofollow" target="_blank">this form</a></strong>.</p>
+</li>
+</ul>
 <hr>
 <h4>Chek Jawa Wetlands Permit</h4>
 <p><a href="/files/CJW_Permit__updated_2023_.pdf" rel="noopener nofollow" target="_blank">Application for Permit to conduct activities to Chek Jawa Wetlands/Sekudu Island, Pulau Ubin</a>
