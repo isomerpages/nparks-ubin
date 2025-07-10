@@ -54,7 +54,7 @@ sections:
           linktext: Learn more
           url: /recreational-activities/
         - title: Ubin School Initiative
-          description: Education Programmes & Learning Resources
+          description: Programmes that promote environmental education and stewardship
           linktext: Learn more
           url: /ubin-school-initiative/
         - title: Permits
