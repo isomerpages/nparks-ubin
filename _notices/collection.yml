@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Notices.md
-      - Notice for usage of bicycles, perosonal mobility devices and motorised
-        vehicles.md
