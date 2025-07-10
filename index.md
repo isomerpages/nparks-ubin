@@ -22,7 +22,7 @@ sections:
         - title: Notices
           description: ""
           url: /notices/
-        - title: Ubin Tide Newsletter
+        - title: Ubin Tides Newsletter
           description: ""
           url: /biodiversity-and-heritage-of-pulau-ubin/
         - title: Useful Links
