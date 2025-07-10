@@ -1,5 +1,5 @@
 collections:
-  notice:
+  notices:
     output: true
     order:
       - Notices.md
