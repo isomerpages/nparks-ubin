@@ -37,8 +37,6 @@ the <strong><a href="https://form.gov.sg/#!/6216f8a340a8e30012fe1097" rel="noope
 least 2 weeks before the date of the activity, or usage date.&nbsp;</p>
 <hr>
 <h4>Camping Permit</h4>
-<p>Gather your friends and families and spend a fun day or two at the island!
-Get up close with nature and immerse yourself in the rustic atmosphere.&nbsp;</p>
 <p>Permits are required to set up tents at our campsites, namely Jelutong,
 Mamam and Endut Senin Campsites. Camping. Please apply for a permit at
 least 2 weeks before the camping date and comply with the terms and conditions
