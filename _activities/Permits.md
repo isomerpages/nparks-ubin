@@ -4,7 +4,7 @@ permalink: /permits/
 variant: tiptap
 description: ""
 ---
-<h4>Events and organised groups</h4>
+<h4>Events and Venue Booking</h4>
 <p>Are you looking to hold an event in Ubin? With vast open spaces amidst
 lush greenery, our venues are suitable for all types of functions such
 as concerts, family days, sporting competitions and activities, as well
