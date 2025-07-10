@@ -9,7 +9,7 @@ description: ""
 </div>
 <p>For safety, please do not enter when the area is flooded. During and immediately
 after bad weather, seek cover at the nearest shelter available and avoid
-entering forested areas, including nature reserves and nature parks. Visit<strong><a href="http://www.weather.gov.sg/" rel="noopener noreferrer" target="_blank">NEA</a></strong>&nbsp;or
+entering forested areas, including nature reserves and nature parks. Visit <strong><a href="http://www.weather.gov.sg/" rel="noopener noreferrer" target="_blank">NEA</a></strong>&nbsp;or
 dial 65427788 for weather forecast.</p>
 <p>&nbsp;</p>
 <p>These areas at Pulau Ubin may be flooded due to higher tides on these
