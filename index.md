@@ -16,7 +16,7 @@ sections:
       alignment: right
       size: md
       key_highlights:
-        - title: Map & E-Brochure
+        - title: Map of Ubin
           description: ""
           url: /maps-and-brochure/
         - title: Notices
