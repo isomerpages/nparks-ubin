@@ -11,13 +11,22 @@ and Endut Senin Campsites. Camping permits are required. Please apply for
 a permit at least 2 weeks before the camping date and comply with the terms
 and conditions for camping, Find out more<strong>&nbsp;<a href="https://www.nparks.gov.sg/-/media/ubin/camping/pu---camping-permit-tc-(13jan2021).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-<p>For activities more than 40 pax, please refer to this section on <strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/group-activities" rel="noopener noreferrer nofollow" target="_blank">Group Activities</a></strong>.&nbsp;</p>
-<p><strong>Application for camping permits can be made via the <a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer" target="_blank">AXS system</a> (<a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer nofollow" target="_blank">AXS.com.sg</a>) with effect from 15 March 2022, 10 am.</strong>
+<p>If your activity is for more than 40 pax, please also apply for a Organised
+Group Activity Permit.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singaporeans or Permanent Residents can apply for the camping permit via
+the <strong><a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer" target="_blank">AXS system</a></strong> (
+<a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer nofollow" target="_blank">AXS.com.sg</a>).</p>
+</li>
+<li>
+<p>Visitors with short-term visit pass and tourists interested in camping
+on Pulau Ubin can apply via <strong><a href="https://form.gov.sg/686372efacb1a19b41e3de22" rel="noopener noreferrer nofollow" target="_blank">this form</a></strong>.</p>
+</li>
+</ul>
+<p><strong>Campsites of Pulau Ubin</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2AFUOmeFgZw?si=yXRVA8o6CjCwGxDL"></iframe>
-</div>
-<p>Campsites of Pulau Ubin</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Jelutong Campsite</summary>
