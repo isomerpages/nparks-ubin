@@ -50,7 +50,7 @@ sections:
           linktext: Click here
           url: /visitubin/
         - title: Recreational Activities
-          description: Fishing, Camping, Cycling, Hiking
+          description: Hiking, Camping, Fishing, Cycling
           linktext: Learn more
           url: /recreational-activities/
         - title: Ubin School Initiative
