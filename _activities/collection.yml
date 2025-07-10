@@ -2,9 +2,9 @@ collections:
   activities:
     output: true
     order:
-      - Ubin School Initiative.md
-      - Permits.md
       - Hiking.md
+      - Camping.md
       - Fishing.md
       - Cycling.md
-      - Camping.md
+      - Permits.md
+      - Ubin School Initiative.md
