@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p><strong>About the island</strong>
-</p>
 <p>Shaped like a boomerang, Pulau Ubin is situated just off the north-eastern
 corner of mainland Singapore. Once a cluster of five smaller islets separated
 by tidal rivers, it has since been united by the building of bunds for
