@@ -14,12 +14,5 @@ description: ""
 </div>
 </div>
 </details>
-<details class="isomer-details">
-<summary>E-Brochure</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/NPARKS_Pulau_Ubin_Brochure_resize__2_.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
-</div>
-</details>
 </div>
 <p></p>
