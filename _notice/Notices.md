@@ -38,7 +38,7 @@ when the area is flooded.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please read <a href="/files/Notices/NOTICE_bicyclePMD.pdf" rel="noopener noreferrer nofollow" target="_blank">notice</a> for
-the use of shared bicycles, perosonal mobility devices and motorised bicycles
+the use of shared bicycles, personal mobility devices and motorised bicycles
 on Pulau Ubin.</p>
 </div>
 </details>
