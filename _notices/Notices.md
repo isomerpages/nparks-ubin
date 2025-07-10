@@ -62,7 +62,7 @@ of our beaches. More information on box jellyfish can be found <a href="https://
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Beware of impersonation scams</strong>
+<summary><strong>Beware of Impersonation Scams</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Government officials will NEVER do these things over a phone call:</p>
