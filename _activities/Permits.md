@@ -56,6 +56,12 @@ on Pulau Ubin can apply via <strong><a href="https://form.gov.sg/686372efacb1a19
 </ul>
 <hr>
 <h4>Chek Jawa Wetlands Permit</h4>
+<p>A permit to conduct activities at Chek Jawa Wetlands and/or Pulau Sekudu
+is required when accessing <strong>off-trail </strong>areas for approved
+research purposes.</p>
+<p></p>
+<p>Please not that casual visitation on the publicly accessible trails and
+boardwalks <strong>do not</strong> require a permit.</p>
 <p><a href="/files/CJW_Permit__updated_2023_.pdf" rel="noopener nofollow" target="_blank">Application for Permit to conduct activities to Chek Jawa Wetlands/Sekudu Island, Pulau Ubin</a>
 </p>
 <hr>
