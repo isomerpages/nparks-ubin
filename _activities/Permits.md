@@ -33,7 +33,7 @@ to our<strong><a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gar
 <br>
 </p>
 <p>Applications can only be made up to 2 months in advance. Please submit
-the <strong><a href="https://form.gov.sg/#!/6216f8a340a8e30012fe1097" rel="noopener noreferrer" target="_blank">application form</a></strong> at
+the <strong><a href="https://form.gov.sg/686360c3d15049d19a507761" rel="noopener noreferrer" target="_blank">application form</a></strong> at
 least 2 weeks before the date of the activity, or usage date.&nbsp;</p>
 <hr>
 <h4>Camping Permit</h4>
