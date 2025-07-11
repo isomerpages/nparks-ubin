@@ -27,7 +27,7 @@ description: ""
 </div>
 <h4><strong>Ubin Day 2020 Virtual Tours | Chek Jawa Wetlands</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NvhntoAcsJc?si=yfN6Hkzf6CJfb9uV"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NvhntoAcsJc?si=AKpwPQpb9vB-aI1T"></iframe>
 </div>
 <h4><strong>Ubin Day 2020 Virtual Tours | Ketam Mountain Bike Park</strong></h4>
 <div class="iframe-wrapper">
