@@ -4,36 +4,40 @@ permalink: /ubinday2020talks/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Ubin Day 2020 Talks | Working With Nature To Restore Our Mangroves</strong></h4>
+<h4><strong>Working With Nature To Restore Our Mangroves</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nEi08NaClT0?si=3sTjXzrZfVr0FymT"></iframe>
 </div>
-<h4><strong>Ubin Day 2020 Talks | Importance Of Pulau Ubin For Bird Conservation</strong></h4>
+<h4><strong>Importance Of Pulau Ubin For Bird Conservation</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g_-kTHvoYpk?si=dphe7ed6c0TX3cxt"></iframe>
 </div>
-<h4><strong>Ubin Day 2020 Talks | Findings From The First Comprehensive Ubin Biodiversity Survey</strong></h4>
+<h4><strong>Findings From The First Comprehensive Ubin Biodiversity Survey</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b43ZHluqXFM?si=PdddfaztaGAuk0ct"></iframe>
 </div>
-<h4><strong>Ubin Day 2020 Talks | Accessible Ubin: Jetty for All</strong></h4>
+<h4><strong>Accessible Ubin: Jetty for All</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6KXoi0dLS6w?si=SLZor7TrOZSpkXQP"></iframe>
 </div>
-<h4><strong>Ubin Day 2020 Talks | Pulau Ubin's Houses And Settlements And Its Socio-Cultural Landscape Histories</strong></h4>
+<h4><strong>Pulau Ubin's Houses And Settlements And Its Socio-Cultural Landscape Histories</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CrphXTeyGWM?si=1yEAfWj8KAp0U-eT"></iframe>
 </div>
-<h4><strong>Ubin Day 2020 Virtual Tours | Chek Jawa Wetlands</strong></h4>
+<h4><strong>Chek Jawa Wetlands</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NvhntoAcsJc?si=AKpwPQpb9vB-aI1T"></iframe>
 </div>
-<h4><strong>Ubin Day 2020 Virtual Tours | Ketam Mountain Bike Park</strong></h4>
+<h4><strong>Ketam Mountain Bike Park</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LzsRH8cF0C8?si=S2Tt4VbJWaAjt5bh"></iframe>
 </div>
-<h4><strong>Ubin Day 2020 Virtual Tours | Ubin Kampung Houses</strong></h4>
+<h4><strong>Ubin Kampung Houses</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IygNHxiEmYo?si=l7Hp-0YEs85N7Flu"></iframe>
+</div>
+<h4><strong>Military Installations on Pulau Ubin</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NhhQL-ro4Sw?si=e9y2cUCb26O5wDSF"></iframe>
 </div>
 <p></p>
