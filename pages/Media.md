@@ -4,7 +4,6 @@ permalink: /media/
 variant: tiptap
 description: ""
 ---
-<p>Webinars and talks</p>
 <h4><strong>Ubin Day 2020 Talks | Working With Nature To Restore Our Mangroves</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nEi08NaClT0?si=3sTjXzrZfVr0FymT"></iframe>
