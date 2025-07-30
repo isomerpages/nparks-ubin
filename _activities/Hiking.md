@@ -24,8 +24,10 @@ than good.</p>
 <p></p>
 <p><strong>Safety during bad weather.&nbsp;</strong>Seek cover at the nearest
 shelter available and avoid entering forested areas, including nature reserves
-and nature parks during and immediately after bad weather. Visit&nbsp;<strong><a href="http://www.weather.gov.sg/" rel="noopener noreferrer" target="_blank">NEA</a></strong>&nbsp;or
-dial 65427788 for the weather forecast.</p>
+and nature parks. Before your visit, remember to check the weather forecast.
+We also encourage you to subscribe to the <a href="https://www.weather.gov.sg/warning-heavy-rain" rel="noopener nofollow" target="_blank">Meteorological Service Singapore's Heavy Rain Warnings</a> to
+receive SMS alerts. Seek shelter during bad weather. Avoid entering forested
+areas during and immediately after heavy rain.</p>
 <p><strong><a href="https://www.nparks.gov.sg/visit/when-visiting-parks/etiquette/nature-parks-reserve-dos-donts" rel="noopener noreferrer" target="_blank">Heed parks and nature reserves etiquette.</a></strong>
 </p>
 <p>To get ready for your visit to Pulau Ubin, you are encouraged to watch
@@ -41,14 +43,6 @@ the video below.</p>
 <div class="isomer-card-description">This trail guide introduces you to six Heritage Trees that can be found
 on Pulau Ubin.</div>
 <div class="isomer-card-link">Download</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Rustic Reflections Tour</div><div class="isomer-card-description">Learn about the history and heritage of Pulau Ubin.</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Kampong Tour</div>
-<div class="isomer-card-description">Take a walk with us to experience Ubin's wonderful natural and cultural
-heritage.</div>
-<div class="isomer-card-link">Click here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.nparks.gov.sg/visit/events?searchQuery=tour" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chek Jawa Wetlands Tour</div><div class="isomer-card-description">*Suspended till further notice* Our nature guides will be on hand to bring you on a one-hour tour to experience Chek Jawa’s amazing natural heritage.</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
