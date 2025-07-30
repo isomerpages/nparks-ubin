@@ -43,9 +43,9 @@ contacts:
       - other: http://www.nparks.gov.sg/contact-us
     title: General Enquiries & Feedback
   - content:
-      - phone: ""
+      - phone: 1800 471 7300
       - email: ""
-      - other: Please call 1800 - 471 7300
+      - other: ""
     title: For non-emergency enquiries
   - content:
       - phone: ""
