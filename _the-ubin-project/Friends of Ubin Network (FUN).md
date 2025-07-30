@@ -14,11 +14,11 @@ and passionate stakeholders.</p>
 <p>Since its formation in 2014, FUN has led and contributed to several grounds
 up initiatives, all of which support the Ubin Project’s five key thrusts.
 Explore the links to find out more.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biodiversity-conservation/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Biodiversity Conservation</div><div class="isomer-card-link">Click here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biodiversity-conservation/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Biodiversity Conservation</div><div class="isomer-card-link">Biodiversity Conservation thrust</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/education-and-research/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Education &amp; Research</div>
-<div class="isomer-card-link">Click here</div>
+<div class="isomer-card-link">Education &amp; Research Thrust</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/community-heritage-and-history/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Community, Heritage and History</div><div class="isomer-card-link">Click here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/nature-based-recreation/" class="isomer-card">
