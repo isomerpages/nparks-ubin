@@ -29,7 +29,7 @@ for generations to come.</p>
 2014. It comprises youths, residents, volunteers, researchers and members
 from the heritage and nature communities.</p>
 <p>With the collective support of FUN, many of the ideas received have been
-implemented. One example is <strong><a href="https://www.nparks.gov.sg/activities/events-and-workshops/2020/9/pesta-ubin-and-ubin-day-2020" rel="noopener noreferrer" target="_blank">Pesta Ubin</a></strong>,
+implemented. One example is <strong><a href="/pesta-ubin-ubin-day/" rel="noopener noreferrer" target="_blank">Pesta Ubin</a></strong>,
 an annual “open house” to bring together groups and individuals who are
 passionate about Pulau Ubin. With support from the National Parks Board
 (NParks), this ground-up initiative sees various stakeholders organising
