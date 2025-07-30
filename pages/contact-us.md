@@ -18,12 +18,12 @@ locations:
       - 1000 Jalan Endut Senin
       - ""
       - Singapore 508419
-    title: Ubin Living Lab
     operating_hours:
       - days: Mon - Sun
         time: 9.30am - 4.30pm
         description: ""
     maps_link: ""
+    title: Ubin Living Lab
   - address:
       - 1 Cluny Road
       - Singapore Botanic Gardens
@@ -35,7 +35,7 @@ contacts:
   - content:
       - phone: 1800 471 7300
       - email: ""
-      - other: http://www.nparks.gov.sg/feedback
+      - other: http://www.nparks.gov.sg/contact-us
     title: General Enquiries & Feedback
 feedback: ""
 ---
