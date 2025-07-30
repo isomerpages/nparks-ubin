@@ -11,7 +11,7 @@ and Endut Senin Campsites. Camping permits are required. Please apply for
 a permit at least 2 weeks before the camping date and comply with the
 <a href="/files/PU___Camping_Permit_TC__13Jan2021_.pdf" rel="noopener noreferrer nofollow" target="_blank">terms and conditions for camping.</a>
 </p>
-<p>If your activity is for more than 40 pax, please also apply for an <a href="https://ubin.nparks.gov.sg/permits/" rel="noopener nofollow" target="_blank">Organised Group Activity Permit</a>.</p>
+<p>If your activity is for more than 40 pax, please also apply for an <a href="/permits/" rel="noopener nofollow" target="_blank">Organised Group Activity Permit</a>.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
