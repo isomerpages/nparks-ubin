@@ -36,21 +36,6 @@ the video below.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/loyF-5i8hck?si=U0-n8W3AEY8Wqd3q"></iframe>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Pulau Ubin - Tree Trail</div><div class="isomer-card-description">Experience Pulau Ubin’s rustic atmosphere and get a good insight of village life as you embark on this well-shaded trail.</div><div class="isomer-card-link">Download</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Heritage Trees of Pulau Ubin</div>
-<div class="isomer-card-description">This trail guide introduces you to six Heritage Trees that can be found
-on Pulau Ubin.</div>
-<div class="isomer-card-link">Download</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/chek-jawa-wetlands-tour/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chek Jawa Wetlands Tour</div><div class="isomer-card-description">*Suspended till further notice* Our nature guides will be on hand to bring you on a one-hour tour to experience Chek Jawa’s amazing natural heritage.</div><div class="isomer-card-link">Chek Jawa Wetland</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Virtual Tours</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">Click here</div>
-</div>
-</a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/chek-jawa-wetlands-tour/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chek Jawa Wetlands Tour</div><div class="isomer-card-description">*Suspended till further notice* Our nature guides will be on hand to bring you on a one-hour tour to experience Chek Jawa’s amazing natural heritage.</div><div class="isomer-card-link">Chek Jawa Wetland</div></div></a>
 </div>
 <p></p>
