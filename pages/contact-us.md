@@ -35,7 +35,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: Please call 999 / 995
+    title: In case of any emergency or accident
+  - content:
+      - phone: ""
+      - email: ""
       - other: http://www.nparks.gov.sg/contact-us
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Please call 1800 - 471 7300
+    title: For non-emergency enquiries
 feedback: ""
 ---
