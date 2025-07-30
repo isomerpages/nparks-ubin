@@ -120,15 +120,6 @@ board Bus no 2 at Exit B to Changi Village Bus Interchange</p>
 <br>7.00am - 7.00pm</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Contact us</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Pulau Ubin<br></strong>61 Pulau Ubin
-<br>Singapore 508310
-<br>Tel: 6542 4108</p>
-<p></p>
-</div>
-</details>
 </div>
 <p></p>
 <p></p>
