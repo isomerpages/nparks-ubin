@@ -47,5 +47,10 @@ contacts:
       - email: ""
       - other: Please call 1800 - 471 7300
     title: For non-emergency enquiries
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://go.gov.sg/ubinschoolinitiative
+    title: Ubin School initiative
 feedback: ""
 ---
