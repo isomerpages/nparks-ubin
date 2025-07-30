@@ -14,21 +14,28 @@ and passionate stakeholders.</p>
 <p>Since its formation in 2014, FUN has led and contributed to several grounds
 up initiatives, all of which support the Ubin Project’s five key thrusts.
 Explore the links to find out more.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/biodiversity-conservation/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Biodiversity Conservation</div><div class="isomer-card-link">Biodiversity Conservation thrust</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/education-and-research/" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Education &amp; Research</div>
-<div class="isomer-card-link">Education &amp; Research Thrust</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/community-heritage-and-history/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Community, Heritage and History</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/nature-based-recreation/" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Nature-based Recreation</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">Click here</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/sustainable-design-and-practices/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sustainable Design &amp; Practises</div><div class="isomer-card-link">Click here</div></div></a>
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://ubin.nparks.gov.sg/biodiversity-conservation/" rel="noopener nofollow" target="_blank">Biodiversity Conservation</a>
+</p>
+</li>
+<li>
+<p><a href="https://ubin.nparks.gov.sg/education-and-research/" rel="noopener nofollow" target="_blank">Education &amp; Research</a>
+</p>
+</li>
+<li>
+<p><a href="https://ubin.nparks.gov.sg/community-heritage-and-history/" rel="noopener nofollow" target="_blank">Community. Heritage and History</a>
+</p>
+</li>
+<li>
+<p><a href="https://ubin.nparks.gov.sg/nature-based-recreation/" rel="noopener nofollow" target="_blank">Nature-based Recreation</a>
+</p>
+</li>
+<li>
+<p><a href="https://ubin.nparks.gov.sg/sustainable-design-and-practices/" rel="noopener nofollow" target="_blank">Sustainable Design &amp; Practises</a>
+</p>
+</li>
+</ul>
 <h2>Highlights</h2>
 <p></p>
 <div class="isomer-card-grid">
