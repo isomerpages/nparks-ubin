@@ -33,7 +33,7 @@ locations:
     title: National Parks Board Headquarters
 contacts:
   - content:
-      - phone: 1800 471 7300
+      - phone: ""
       - email: ""
       - other: http://www.nparks.gov.sg/contact-us
     title: General Enquiries & Feedback
