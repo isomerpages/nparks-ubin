@@ -16,7 +16,7 @@ up initiatives, all of which support the Ubin Project’s five key thrusts.
 Explore the links to find out more.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://ubin.nparks.gov.sg/biodiversity-conservation/" rel="noopener nofollow" target="_blank">Biodiversity Conservation</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/biodiversity-conservation/" rel="noopener nofollow" target="_blank">Biodiversity Conservation</a>
 </p>
 </li>
 <li>
