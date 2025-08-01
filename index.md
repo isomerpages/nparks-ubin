@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: Pulau Ubin Website
-description: Brief site description here
+description: Situated just off the northeastern corner of mainland Singapore,
+  the boomerang-shaped Pulau Ubin is home to one of Singapore’s last villages.
+  Chek Jawa, one of Singapore’s richest ecosystems can also be found here.
 image: /images/Annotation_2023_12_21_131945__2_.png
 permalink: /
 notification: Government officials will NEVER ask you to transfer money or

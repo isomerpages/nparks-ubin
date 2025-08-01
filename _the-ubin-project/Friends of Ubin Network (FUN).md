@@ -16,23 +16,23 @@ up initiatives, all of which support the Ubin Project’s five key thrusts.
 Explore the links to find out more.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://ubin.nparks.gov.sg/biodiversity-conservation/" rel="noopener nofollow" target="_blank">Biodiversity Conservation</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/biodiversity-conservation/" rel="noopener nofollow" target="_blank">Biodiversity Conservation</a>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/education-and-research/" rel="noopener nofollow" target="_blank">Education &amp; Research</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/education-and-research/" rel="noopener nofollow" target="_blank">Education &amp; Research</a>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/community-heritage-and-history/" rel="noopener nofollow" target="_blank">Community. Heritage and History</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/community-heritage-and-history/" rel="noopener nofollow" target="_blank">Community. Heritage and History</a>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/nature-based-recreation/" rel="noopener nofollow" target="_blank">Nature-based Recreation</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/nature-based-recreation/" rel="noopener nofollow" target="_blank">Nature-based Recreation</a>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/sustainable-design-and-practices/" rel="noopener nofollow" target="_blank">Sustainable Design &amp; Practises</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/sustainable-design-and-practices/" rel="noopener nofollow" target="_blank">Sustainable Design &amp; Practises</a>
 </p>
 </li>
 </ul>
