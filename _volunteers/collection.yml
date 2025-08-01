@@ -1,0 +1,5 @@
+collections:
+  volunteers:
+    output: true
+    order:
+      - Volunteer.md

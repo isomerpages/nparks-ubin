@@ -1,32 +1,64 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Pulau Ubin Website
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Annotation_2023_12_21_131945__2_.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Pulau Ubin
+      background: /images/banner1.jpg
+      variant: center
+      backgroundColor: gray
+      alignment: right
+      size: md
+      key_highlights:
+        - title: Map of Ubin
+          description: ""
+          url: /maps-and-brochure/
+        - title: Notices
+          description: ""
+          url: /notices/
+        - title: Ubin Tides Newsletter
+          description: ""
+          url: /ubin-tides-newsletter/
+        - title: Useful Links
+          description: ""
+          url: /useful-links/
+  - infobar:
+      title: Pesta Ubin & Ubin Day
+      id: infobar
+      button: Click here
+      url: /pesta-ubin-ubin-day/
+  - infopic:
+      title: The Ubin Project
+      subtitle: Next Bound Of
+      id: infopic
+      button: Find out more
+      url: /the-next-bound/
+      image: /images/Pekan_quarry_floating_wetlands_2.jpg
+      alt: Pekan Quarry Floating Wetland
+  - textcards:
+      title: Plan Your Visit
+      id: textcards
+      cards:
+        - title: Visitor Information
+          description: Getting here
+          linktext: Click here
+          url: /visitubin/
+        - title: Recreational Activities
+          description: Hiking, Camping, Fishing, Cycling
+          linktext: Learn more
+          url: /recreational-activities/
+        - title: Ubin School Initiative
+          description: Programmes that promote environmental education and stewardship
+          linktext: Learn more
+          url: /ubin-school-initiative/
+        - title: Permits
+          description: Organised Group Activity Permit Application & Venue Booking
+          linktext: Learn more
+          url: /permits/
 ---
-

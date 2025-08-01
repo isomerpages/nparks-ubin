@@ -1,0 +1,9 @@
+collections:
+  five-key-thrusts:
+    output: true
+    order:
+      - Sustainable Design and Practices.md
+      - Nature based Recreation.md
+      - Community, Heritage and History.md
+      - Education and Research.md
+      - Biodiversity Conservation.md

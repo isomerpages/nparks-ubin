@@ -1,0 +1,6 @@
+collections:
+  cultural-heritage:
+    output: true
+    order:
+      - Kampong Life.md
+      - Places of Interest.md

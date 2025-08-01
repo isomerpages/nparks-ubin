@@ -1,0 +1,8 @@
+collections:
+  about-ubin:
+    output: true
+    order:
+      - Visit Pulau Ubin.md
+      - About the Island.md
+      - Ubin Way.md
+      - Flood Risk.md

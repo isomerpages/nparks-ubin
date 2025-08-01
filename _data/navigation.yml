@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Pulau_ubin_home_logo.png
 links:
+  - title: About Ubin
+    collection: about-ubin
+  - title: The Ubin Project
+    collection: the-ubin-project
+  - title: Biodiversity
+    collection: biodiversity
+  - title: Cultural Heritage
+    collection: cultural-heritage
+  - title: Activities
+    collection: activities
+  - title: Volunteers
+    collection: volunteers
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
