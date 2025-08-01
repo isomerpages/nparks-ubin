@@ -20,11 +20,11 @@ Explore the links to find out more.</p>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/education-and-research/" rel="noopener nofollow" target="_blank">Education &amp; Research</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/education-and-research/" rel="noopener nofollow" target="_blank">Education &amp; Research</a>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/community-heritage-and-history/" rel="noopener nofollow" target="_blank">Community. Heritage and History</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/community-heritage-and-history/" rel="noopener nofollow" target="_blank">Community. Heritage and History</a>
 </p>
 </li>
 <li>
