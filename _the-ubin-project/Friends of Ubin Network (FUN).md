@@ -28,11 +28,11 @@ Explore the links to find out more.</p>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/nature-based-recreation/" rel="noopener nofollow" target="_blank">Nature-based Recreation</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/nature-based-recreation/" rel="noopener nofollow" target="_blank">Nature-based Recreation</a>
 </p>
 </li>
 <li>
-<p><a href="https://ubin.nparks.gov.sg/sustainable-design-and-practices/" rel="noopener nofollow" target="_blank">Sustainable Design &amp; Practises</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/sustainable-design-and-practices/" rel="noopener nofollow" target="_blank">Sustainable Design &amp; Practises</a>
 </p>
 </li>
 </ul>
