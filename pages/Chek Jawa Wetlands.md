@@ -29,9 +29,8 @@ the Jejawi Tower. This development constitutes part of a long-term sustainable
 visitor management plan to protect the rich biodiversity. Visitors can
 conduct their own DIY tour along the boardwalks to appreciate the rich
 biodiversity at Chek Jawa seven days a week, between 9.00 am and 5.00 pm.&nbsp;</p>
+<p></p>
 <p><strong>About Chek Jawa</strong>
-</p>
-<p>
 <br>One of Singapore's richest ecosystems, Chek Jawa is a unique natural area
 where six major habitats meet and mix.&nbsp;
 <br>
@@ -44,8 +43,22 @@ to a review of its reclamations plans.
 <br>After carefully considering all public submissions and extensive consultations
 with scientific experts and relevant government agencies, it was announced
 in 2001 that reclamation works would be deferred for as long as Pulau Ubin
-is not required for development.&nbsp;
-<br>
+is not required for development.&nbsp;</p>
+<p></p>
+<p><strong>Chek Jawa Boardwalk and Jejawi Tower</strong>
+</p>
+<p>From the visitor centre, you can choose to experience the Chek Jawa Wetlands
+via two routes: &nbsp;the Coastal Loop (600m) and Mangrove Loop (500m)
+boardwalk with lookout platforms, a floating pontoon, and shelters. Learn
+about the rich biodiversity through the educational panels and directional
+signs installed along the boardwalk. Both routes can be completed in about
+one and a half hours.</p>
+<p>Along the way, you will be able to climb the seven-storey high (21m) Jejawi
+Tower to view the tree canopy and observe the biodiversity, such as birdlife.
+The viewing tower is named after the native tree (<strong><a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2912" rel="noopener noreferrer" target="_blank">Malayan Banyan</a></strong>)
+that grows just beside the tower. Aluminum was used in the design and construction
+of the railings of the boardwalk, jetty, and viewing tower for its durability
+and ability to withstand harsh natural conditions at the wetlands.
 <br>
 <br><strong>Planning your visit</strong>
 <br>
