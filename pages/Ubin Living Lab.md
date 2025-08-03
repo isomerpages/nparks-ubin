@@ -18,9 +18,9 @@ group activities and a dedicated space with wood-working equipment and
 work benches to support restoration work of kampung houses by the community.
 Fronting the lake is the Endut Senin Campsite&nbsp;that can accommodate
 up to about 100 campers.</p>
-<p><em>Students from Yale-NUS using the laboratory (Photo credit: Yale-NUS)&nbsp; </em>
+<p><em>Students from Yale-NUS using the laboratory (Photo credit: Yale-NUS)&nbsp;</em>
 </p>
-<p><em>Volunteers helping with mangrove propagule collection at the Mangrove Nursery (Photo credit: Joseph Lai)&nbsp; </em>
+<p><em>Volunteers helping with mangrove propagule collection at the Mangrove Nursery (Photo credit: Joseph Lai)&nbsp;</em>
 </p>
 <p>ULL also has a mangrove arboretum, which showcases a living collection
 of mangrove plant species native to Singapore. This arboretum will serve
