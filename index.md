@@ -54,7 +54,7 @@ sections:
         - title: Recreational Activities
           description: Hiking, Camping, Fishing, Cycling
           linktext: Learn more
-          url: /recreational-activities/
+          url: /hiking/
         - title: Ubin School Initiative
           description: Programmes that promote environmental education and stewardship
           linktext: Learn more
