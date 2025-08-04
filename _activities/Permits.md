@@ -46,7 +46,7 @@ for camping, Find out more<strong>&nbsp;<a href="https://www.nparks.gov.sg/-/med
 <ul data-tight="true" class="tight">
 <li>
 <p>Singaporeans or Permanent Residents can apply for the camping permit via
-the <strong><a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer" target="_blank">AXS system</a></strong> 
+the <strong><a href="https://e-station.axs.com.sg/NParks_Camping/Internet/index.php" rel="noopener noreferrer" target="_blank">AXS system</a></strong>
 </p>
 </li>
 <li>
