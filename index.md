@@ -48,19 +48,19 @@ sections:
       id: textcards
       cards:
         - title: Visitor Information
-          description: Getting here
-          linktext: Click here
+          description: ""
+          linktext: Getting here
           url: /visitubin/
         - title: Recreational Activities
-          description: Hiking, Camping, Fishing, Cycling
-          linktext: Learn more
-          url: /recreational-activities/
+          description: ""
+          linktext: Hiking, Camping, Fishing, Cycling
+          url: /hiking/
         - title: Ubin School Initiative
-          description: Programmes that promote environmental education and stewardship
-          linktext: Learn more
+          description: ""
+          linktext: Environmental education and stewardship
           url: /ubin-school-initiative/
         - title: Permits
-          description: Organised Group Activity Permit Application & Venue Booking
-          linktext: Learn more
+          description: ""
+          linktext: Permit Application & Venue Booking
           url: /permits/
 ---
