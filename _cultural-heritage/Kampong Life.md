@@ -13,9 +13,9 @@ was later shortened to Pulau Ubin.
 <br>In the 16th century, Ubin was part of the Johor-Riau Empire. The earliest
 inhabitants of the island were the Orang Laut (or “Sea People”) and indigenous
 Malays of Bugis and Javanese origins.</p>
-<p>Click <strong><a href="https://www.youtube.com/watch?v=s882nfgbdZc&amp;t=220s" rel="noopener noreferrer" target="_blank">here</a></strong> to
-watch a 30-minute Chinese television feature by the Singapore Broadcasting
-Corporation (now MediaCorp) in 1990.</p>
+<p>Watch <a href="https://www.youtube.com/watch?v=s882nfgbdZc&amp;t=220s" rel="noopener nofollow" target="_blank">Ubin of Yesteryears</a>,
+a 30-minute Chinese television feature by the Singapore Broadcasting Corporation
+(now MediaCorp) in 1990.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s882nfgbdZc?si=8JDQT70X44ZffGhy"></iframe>
 </div>
