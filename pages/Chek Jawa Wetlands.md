@@ -64,7 +64,8 @@ and ability to withstand harsh natural conditions at the wetlands.
 <br>
 <br>Chek Jawa is an intertidal area, with various ecosystems unveiled at low
 tides of 0.5 metres and below. Do refer to the tides table when you plan
-a visit to avoid disappointment.
+a visit to avoid disappointment. Do refer to the <a href="/files/CH25___Tide_table_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">tide table</a> when you plan a
+visit.
 <br>
 <br>Chek Jawa Opening Hours: 7.00 am - 7.00 pm</p>
 <p>
@@ -79,8 +80,4 @@ For the safety of visitors, bicycles and vehicles will have to be parked
 at designated lots near Punai Hut. Do remember to ask for a bicycle lock
 when you rent your bicycle.</p>
 <p></p>
-<p><strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/nature-walks-and-trails/chek-jawa-wetlands-tour" rel="noopener noreferrer" target="_blank">Read more about guided tours at Chek Jawa&nbsp;</a></strong>
-<br><strong><a href="https://www.nparks.gov.sg/~/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/pulau-ubin/documents/cjw-designation.pdf?la=en" rel="noopener noreferrer" target="_blank">Designation of Chek Jawa Wetlands</a></strong>
-<br><strong><a href="https://www.nparks.gov.sg/-/media/ubin/chek-jawa/cjw-notice-to-vessel-v6.pdf" rel="noopener noreferrer nofollow" target="_blank">Notice to Vessels</a></strong>
-<br><strong><a href="https://www.nparks.gov.sg/-/media/ubin/forms/cjw-permit-(updated-2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Permit</a></strong>
-</p>
+<p></p>
