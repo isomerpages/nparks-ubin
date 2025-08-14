@@ -11,7 +11,8 @@ Do note the following important points.</p>
 <p>- Be kind to nature; take your rubbish, lines and hooks with you.</p>
 <p>- Leave nothing behind but footprints.</p>
 <p>Read more about <a href="/files/fishing_practices_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">fishing etiquette</a> here.</p>
-<p>Do refer to the <a href="/files/CH25___Tide_table_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">tide table</a> when
+<p>Do refer to the <a href="/files/CH25___Tide_table_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">tide</a>
+<a href="/files/CH25___Tide_table_2025__public_.pdf" rel="noopener noreferrer nofollow" target="_blank"></a><a href="/files/CH25___Tide_table_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">table</a> when
 you plan a visit</p>
 <p></p>
 <p><strong>Please note:</strong>
