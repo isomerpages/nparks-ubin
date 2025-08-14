@@ -18,20 +18,7 @@ description: ""
 attracts about 140 species of butterflies. It successfully models of how
 the community can be involved in nature conservation efforts.</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community_page.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Chek Jawa Wetlands</div>
-<div class="isomer-card-description">Chek Jawa is a unique natural area, where six major ecosystems – sandy
-beach, rocky beach, seagrass lagoon, coral rubble, mangroves and coastal
-forest - meet!</div>
-</div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="/chek-jawa-wetlands/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community_page.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chek Jawa Wetlands</div><div class="isomer-card-description">Chek Jawa is a unique natural area, where six major ecosystems – sandy beach, rocky beach, seagrass lagoon, coral rubble, mangroves and coastal forest - meet!</div><div class="isomer-card-link">Visit Chek Jawa Wetlands</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
