@@ -14,9 +14,24 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UT11.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ubin Tides Issue 11</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ubin Connects - A Learning Symposium!</p>
+</li>
+<li>
+<p>The Ubin Project - Our Journey So Far</p>
+</li>
+<li>
+<p>Habitat Enhancement Programme in Pulau Ubin: Floating Wetlands for Our
+Wildlife</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
