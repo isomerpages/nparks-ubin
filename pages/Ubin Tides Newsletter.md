@@ -22,16 +22,31 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/UT10.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Ubin Tides/Ubin_Tides_Issue_10.pdf" rel="noopener noreferrer nofollow" target="_blank">Ubin Tides Issue 10</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>With a Little Help from Our Friends</p>
+</li>
+<li>
+<p>Successful Nesting of Blue-throated Bee-eaters</p>
+</li>
+<li>
+<p>Interview with Colin Koh</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UT9.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/UT9.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
