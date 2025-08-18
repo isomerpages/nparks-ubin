@@ -15,11 +15,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UT11.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/UT11.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ubin Tides Issue 11</p>
+<p><a href="https://go.gov.sg/ubintide11" rel="noopener nofollow" target="_blank">Ubin Tdes Issue 11</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ubin Connects - A Learning Symposium!</p>
