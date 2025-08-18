@@ -19,7 +19,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/ubintide11" rel="noopener nofollow" target="_blank">Ubin Tdes Issue 11</a>
+<p><a href="https://go.gov.sg/ubintide11" rel="noopener nofollow" target="_blank">Ubin Tides Issue 11</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
