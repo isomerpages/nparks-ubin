@@ -27,7 +27,8 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ubin Tides Issue 8</p>
+<p><a href="https://go.gov.sg/ubintide8" rel="noopener nofollow" target="_blank">Ubin Tides Issue 8</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Rebuilding House No. 22-E</p>
