@@ -22,6 +22,37 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UT9.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Ubin Tides/Ubin_tide_issue_9.pdf" rel="noopener noreferrer nofollow" target="_blank">Ubin Tides Issue 9</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Natural and Cultural Heritage Workshops in Pulau Ubin</p>
+</li>
+<li>
+<p>Enhancing Our Habitats with One Million Trees</p>
+</li>
+<li>
+<p>Pesta Ubin 2022</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/UT8.png">
 </div>
