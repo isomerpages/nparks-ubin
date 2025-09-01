@@ -10,8 +10,8 @@ as early as 6am to 7pm.
 <br>
 <br>The ride takes ten minutes and costs $4 per person ($2 extra if you are
 bringing your bicycle) each way. There are no scheduled departure time
-to and from as bumboats set off only when there are 9 to 12 passengers.
-Please confirm the fare with the bumboat operator.&nbsp;</p>
+to and from as bumboats set off only when there are 12 passengers. Please
+confirm the fare with the bumboat operator.&nbsp;</p>
 <p>Please make prior arrangements with boat operators if you plan to leave
 Pulau Ubin after 6pm. If there are no boats available at Pulau Ubin jetty
 for your return trip, please call the NParks hotline at 1800-471 7300 for
