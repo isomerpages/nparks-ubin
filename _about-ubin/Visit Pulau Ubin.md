@@ -5,19 +5,25 @@ variant: tiptap
 description: ""
 ---
 <p>Visits to Pulau Ubin start with a bumboat ride that departs from Changi
-Point Ferry Terminal (adjacent to Changi Village). Bumboats operate from
-as early as 6am to 7pm.
+Point Ferry Terminal (adjacent to Changi Village).</p>
+<p>The bumboats operating between Changi Point Ferry Terminal and Pulau Ubin
+are privately managed transport services. They usually operate on demand
+from 6 am to 7 pm daily, departing when there are 12 passengers on board.
+The 10-minute journey typically costs $4 per person each way, with an additional
+$2 for bicycles.</p>
+<p>Operators may depart with fewer than 12 passengers, or outside of the
+operating hours of 6am to 7pm, at a higher fare per passenger, based on
+private arrangements between the passengers and operators. Do confirm fares
+before each departure.</p>
+<p>Please make prior arrangements with bumboat operators if you plan to use
+the bumboat outside of the operating hours of 6am to 7pm. If there are
+no bumboats available at Pulau Ubin jetty for your return trip, please
+call the NParks helpline at 1800-471 7300 for assistance.
 <br>
-<br>The ride takes ten minutes and costs $4 per person ($2 extra if you are
-bringing your bicycle) each way. There are no scheduled departure time
-to and from as bumboats set off only when there are 12 passengers. Please
-confirm the fare with the bumboat operator.&nbsp;</p>
-<p>Please make prior arrangements with boat operators if you plan to leave
-Pulau Ubin after 6pm. If there are no boats available at Pulau Ubin jetty
-for your return trip, please call the NParks hotline at 1800-471 7300 for
-assistance.</p>
+</p>
 <p>Once on the island you may explore the designated trails by walking, cycling
 or hiring one of the local van services.</p>
+<p></p>
 <p><strong>Eating in Ubin</strong>
 <br>
 <br>There are four restaurants operating in Pulau Ubin.</p>
