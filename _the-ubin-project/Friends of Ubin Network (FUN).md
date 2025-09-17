@@ -32,7 +32,7 @@ Explore the links to find out more.</p>
 </p>
 </li>
 <li>
-<p><a href="https://pulau-ubin.nparks.gov.sg/sustainable-design-and-practices/" rel="noopener nofollow" target="_blank">Sustainable Design &amp; Practises</a>
+<p><a href="https://pulau-ubin.nparks.gov.sg/sustainable-design-and-practices/" rel="noopener nofollow" target="_blank">Sustainable Design &amp; Practices</a>
 </p>
 </li>
 </ul>
