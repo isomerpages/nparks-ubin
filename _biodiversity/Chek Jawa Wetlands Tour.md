@@ -4,7 +4,7 @@ permalink: /chek-jawa-wetlands-tour/
 variant: markdown
 description: ""
 ---
-*The Chek Jawa Wetlands Tour is suspended until further notice due to maintenance works for the floating pontoon. Chek Jawa Wetlands, including the Coastal and Mangrove Boardwalks, Jejawi Tower and Visitor Centre remain open from 7am to 7pm daily.*
+**The Chek Jawa Wetlands Tour is suspended until further notice due to maintenance works for the floating pontoon. Chek Jawa Wetlands, including the Coastal and Mangrove Boardwalks, Jejawi Tower and Visitor Centre remain open from 7am to 7pm daily.**
 <p>The intertidal flats at Chek Jawa Wetlands are most suitable for visiting
 during low tides of 0.5 metres and below, when you will be able to see
 most of the marine life. At higher tides, the area will be submerged under
