@@ -23,7 +23,7 @@ in Singapore. Nature guides will be on hand to spot and talk about the
 plants and animals along the boardwalk. You will also get to walk on a
 sandbar and appreciate the diversity of inter-tidal marine life. Take the
 challenge to climb the 21 metre Jejawi Tower to take in the scenic view!</p>
-<p>Click <strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/chek-jawa-wetlands" rel="noopener noreferrer" target="_blank">here </a></strong>to
+<p>Click <strong><a href="https://pulau-ubin.nparks.gov.sg/chek-jawa-wetlands/" rel="noopener noreferrer" target="_blank">here </a></strong>to
 find out more about Chek Jawa Wetlands.</p>
 <p></p>
 <p><strong>Kampong Tour</strong>
