@@ -68,9 +68,9 @@ mammals on Pulau Ubin. Line transects and camera trapping were deployed
 in forested areas in the eastern and western parts of the island.
 <br>The study produced distribution maps for four species of medium-sized
 mammals – the Common Palm Civet (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/7/477" rel="noopener noreferrer" target="_blank">Paradoxurus hermaphroditus</a></em></strong>),
-Greater Mousedeer (<strong><em><a href="http://https//www.nparks.gov.sg/florafaunaweb/fauna/1/1/11" rel="noopener noreferrer" target="_blank">Tragulus napu</a></em></strong>),
+Greater Mousedeer (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/1/11" rel="noopener noreferrer" target="_blank">Tragulus napu</a></em></strong>),
 Long-tailed Macaque (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/7/475" rel="noopener noreferrer" target="_blank">Macaca fascicularis</a></em></strong>)
-and Wild Pig (<strong><em><a href="http://https//www.nparks.gov.sg/florafaunaweb/fauna/5/4/542" rel="noopener noreferrer" target="_blank">Sus scrofa</a></em></strong>).
+and Wild Pig (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/5/4/542" rel="noopener noreferrer" target="_blank">Sus scrofa</a></em></strong>).
 The Long-tailed Macaque was recorded only in the east, while the other
 three species were found in forests in both the east and west.
 <br>
