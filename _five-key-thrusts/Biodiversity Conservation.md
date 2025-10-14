@@ -33,7 +33,7 @@ was constructed by students from ITE College East.</p>
 </p>
 <p>Three bird species have been selected for species recovery in Pulau Ubin
 - the Baya Weaver (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/7/9/797" rel="noopener noreferrer" target="_blank">Ploceus philippinus</a></em></strong>),
-Blue-throated Bee-eater (<strong><em><a href="http://https//www.nparks.gov.sg/florafaunaweb/fauna/5/9/595" rel="noopener noreferrer" target="_blank">Merops viridis</a></em></strong>)
+Blue-throated Bee-eater (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/5/9/595" rel="noopener noreferrer" target="_blank">Merops viridis</a></em></strong>)
 and Red-wattled Lapwing (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/7/171" rel="noopener noreferrer" target="_blank">Vanellus indicus</a></em></strong>).</p>
 <p>Safeguarding nesting as well as roosting sites are important to increase
 the long term survival for these birds in Singapore. A site adjacent to
