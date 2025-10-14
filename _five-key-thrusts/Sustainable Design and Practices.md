@@ -81,7 +81,7 @@ the sitting area gives patrons more sitting options.</p>
 <p><strong>Kampung House Restoration Programme&nbsp;</strong>
 </p>
 <p>To adopt a more concerted approach to existing efforts to conserve the
-rich cultural heritage of Pulau Ubin, NParks will be implementing a dedicated <strong><a href="https://www.nparks.gov.sg/pulau-ubin/the-ubin-project/ura-design-guidelines-for-kampung-restorations" rel="noopener noreferrer nofollow" target="_blank">Kampung House Restoration Programme</a></strong>.
+rich cultural heritage of Pulau Ubin, NParks will be implementing a dedicated <strong><a href="https://pulau-ubin.nparks.gov.sg/ura-design-guidelines-for-kampung-restorations/" rel="noopener noreferrer nofollow" target="_blank">Kampung House Restoration Programme</a></strong>.
 The programme will commence next year with the restoration of five vacant
 non-residential kampung houses for community and commercial use.&nbsp;
 <br>In an effort to retain the rustic look of the kampung NParks would be
