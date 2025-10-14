@@ -93,7 +93,7 @@ stems and roots form a mat which stabilises the sediments. Seagrasses are
 also an important food source for marine animals such as turtles and dugongs.
 <br>
 <br>Out of the 12 species of seagrasses found in Singapore, at least seven
-can be found at <strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/chek-jawa-wetlands" rel="noopener noreferrer" target="_blank">Chek Jawa Wetlands</a></strong>.
+can be found at <strong><a href="https://pulau-ubin.nparks.gov.sg/chek-jawa-wetlands/" rel="noopener noreferrer" target="_blank">Chek Jawa Wetlands</a></strong>.
 The southern end of the seagrass lagoon at the wetlands is dominated by
 Ribbon Seagrass (<em>Cymodocea rotundata</em>) while the rest of the seagrass
 meadow there comprises a mix of species, including Spoon Seagrass (<em>Halophila ovalis</em>)
