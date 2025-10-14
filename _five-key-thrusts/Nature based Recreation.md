@@ -118,7 +118,7 @@ forest. Visit the Tudor-style House No. 1, which has been adapted for use
 as the Chek Jawa Visitor Centre. Take a stroll along 1.1 km of boardwalks
 to look out for wildlife, and climb the 21 m Jejawi Tower to take in the
 scenery.</p>
-<p>Click<strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/chek-jawa-wetlands" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://pulau-ubin.nparks.gov.sg/chek-jawa-wetlands/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about Chek Jawa Wetlands</p>
 <p></p>
 <p><strong>Butterfly Hill</strong>
