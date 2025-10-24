@@ -107,6 +107,14 @@ on how to protect yourself against scams, pls visit <a rel="noopener noreferrer 
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Track closure from Chek Jawa Wetlands for maintenance</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Refer to this <a href="/files/Chek_Jawa_track_closure_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">notice</a> on
+track closure for maintenance works until further notice.</p>
+</div>
+</details>
 </div>
 <h4>Emergency contacts</h4>
 <p>In case of any emergency or accident, please call 995/999</p>
