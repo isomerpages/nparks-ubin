@@ -6,13 +6,13 @@ description: For angling enthusiasts, head on to Pulau Ubin for a fishing advent
 ---
 <p>For angling enthusiasts, head on to Pulau Ubin for a fishing adventure!
 Do note the following important points.</p>
-<p>- Select a fishing spot away from people and water activites.</p>
+<p>- Select a fishing spot away from people and water activities.</p>
 <p>- Keep a distance from other park users.</p>
 <p>- Be kind to nature; take your rubbish, lines and hooks with you.</p>
 <p>- Leave nothing behind but footprints.</p>
 <p>Read more about <a href="/files/fishing_practices_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">fishing etiquette</a> here.</p>
-<p>Do refer to the <a href="/files/CH25___Tide_table_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">tide table</a> when
-you plan a visit</p>
+<p>Do refer to the <a href="/files/CH25___Tide_table_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">tide table 2025</a> or
+<a href="/files/Tanjong Changi tide table 2026/Tanjong_Changi___tide_table_2026__public_info_.pdf" rel="noopener noreferrer nofollow" target="_blank">tide table 2026</a>when you plan a visit.</p>
 <p></p>
 <p><strong>Please note:</strong>
 </p>
