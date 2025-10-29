@@ -6,7 +6,7 @@ description: For angling enthusiasts, head on to Pulau Ubin for a fishing advent
 ---
 <p>For angling enthusiasts, head on to Pulau Ubin for a fishing adventure!
 Do note the following important points.</p>
-<p>- Select a fishing spot away from people and water activites.</p>
+<p>- Select a fishing spot away from people and water activities.</p>
 <p>- Keep a distance from other park users.</p>
 <p>- Be kind to nature; take your rubbish, lines and hooks with you.</p>
 <p>- Leave nothing behind but footprints.</p>
