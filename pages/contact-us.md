@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: National Parks Board
+agency_name: Pulau Ubin
 locations:
   - address:
       - 61 Pulau Ubin
@@ -24,33 +24,21 @@ locations:
         description: ""
     maps_link: ""
     title: Ubin Living Lab
-  - address:
-      - 1 Cluny Road
-      - Singapore Botanic Gardens
-      - Singapore 259569
-    operating_hours: []
-    maps_link: ""
-    title: National Parks Board Headquarters
 contacts:
   - content:
       - phone: ""
       - email: ""
       - other: Please call 999 / 995
-    title: In case of any emergency or accident
+    title: In case of emergency or accident on Pulau Ubin
   - content:
       - phone: ""
       - email: ""
-      - other: http://www.nparks.gov.sg/contact-us
+      - other: <a>http://www.nparks.gov.sg/contact-us</a>
     title: General Enquiries & Feedback
   - content:
-      - phone: 1800 471 7300
-      - email: ""
-      - other: ""
-    title: For non-emergency enquiries
-  - content:
       - phone: ""
       - email: ""
-      - other: https://go.gov.sg/ubinschoolinitiative
+      - other: <a>https://go.gov.sg/ubinschoolinitiative</a>
     title: Ubin School initiative
 feedback: ""
 ---
