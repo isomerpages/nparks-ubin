@@ -33,12 +33,14 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a>http://www.nparks.gov.sg/contact-us</a>
-    title: General Enquiries & Feedback
+      - other: <a target="_blank"
+          href="https://go.gov.sg/ubinschoolinitiative">https://go.gov.sg/ubinschoolinitiative</a>
+    title: Ubin School initiative
   - content:
       - phone: ""
       - email: ""
-      - other: <a>https://go.gov.sg/ubinschoolinitiative</a>
-    title: Ubin School initiative
+      - other: <a target="_blank"
+          href="http://www.nparks.gov.sg/contact-us">http://www.nparks.gov.sg/contact-us</a>
+    title: General Enquiries & Feedback
 feedback: ""
 ---

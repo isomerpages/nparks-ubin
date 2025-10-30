@@ -17,8 +17,7 @@ private arrangements between the passengers and operators. Do confirm fares
 before each departure.</p>
 <p>Please make prior arrangements with bumboat operators if you plan to use
 the bumboat outside of the operating hours of 6am to 7pm. If there are
-no bumboats available at Pulau Ubin jetty for your return trip, please
-call the NParks helpline at 1800-471 7300 for assistance.
+no bumboats available at Pulau Ubin jetty for your return trip, <strong>please call the NParks helpline at 1800-471 7300 for assistance</strong>.
 <br>
 </p>
 <p>Once on the island you may explore the designated trails by walking, cycling
