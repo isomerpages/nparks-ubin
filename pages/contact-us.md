@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: National Parks Board
+agency_name: Pulau Ubin
 locations:
   - address:
       - 61 Pulau Ubin
@@ -24,13 +24,6 @@ locations:
         description: ""
     maps_link: ""
     title: Ubin Living Lab
-  - address:
-      - 1 Cluny Road
-      - Singapore Botanic Gardens
-      - Singapore 259569
-    operating_hours: []
-    maps_link: ""
-    title: National Parks Board Headquarters
 contacts:
   - content:
       - phone: ""
