@@ -33,12 +33,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: <a>https://go.gov.sg/ubinschoolinitiative</a>
+    title: Ubin School initiative
+  - content:
+      - phone: ""
+      - email: ""
       - other: <a>http://www.nparks.gov.sg/contact-us</a>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: ""
-      - other: <a>https://go.gov.sg/ubinschoolinitiative</a>
-    title: Ubin School initiative
+      - other: <a href="tel:65424108">6542 4108</a>
+    title: For non-emergency on Pulau Ubin
 feedback: ""
 ---
