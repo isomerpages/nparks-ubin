@@ -19,5 +19,4 @@ This species was only rediscovered in 2002 from Pulau Ubin and is so far
 known only from this locality. Species previously not recorded from Pulau
 Ubin like the <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/2/325" rel="noopener noreferrer nofollow" target="_blank">Common Birdwing</a></strong> and <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/2/327" rel="noopener noreferrer nofollow" target="_blank">Common Rose</a></strong>,
 have also been attracted to the hill and are now a common sight.</p>
-<p>Read more about Butterfly Hill <strong><a href="http://www.nparks.gov.sg/mygreenspace/issue-12-vol-1-2012/conservation/butterfly-hill--where-tigers-fly" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-</p>
+<p></p>
