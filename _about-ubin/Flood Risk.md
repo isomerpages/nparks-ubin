@@ -17,4 +17,23 @@ areas during and immediately after heavy rain.</p>
 <p>&nbsp;</p>
 <hr>
 <p></p>
+<p>4 Jan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+0100hrs – 0130hrs (3.3m at 0100hrs)</p>
+<p>5 Jan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+0100hrs – 0230hrs (3.3m from 0100hrs to 0200hrs)</p>
+<p>6 Jan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+0200hrs – 0230hrs (3.3m at 0200hrs)</p>
+<p>&nbsp;</p>
+<hr>
+<p>4 Feb&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1300
+hrs – 1330 hrs (3.3 m at 1300 hrs)</p>
+<p>&nbsp;</p>
+<hr>
+<p>25 Dec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+0100hrs – 0130hrs (3.3m at 0100hrs)</p>
+<p>26 Dec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+0100hrs – 0230hrs (3.3m from 0100hrs to 0200hrs)</p>
+<p>27 Dec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+0200hrs – 0330hrs (3.3m from 0200hrs to 0300hrs), 1300hrs – 1330hrs (3.3
+m at 1300 hrs).</p>
 <p></p>
