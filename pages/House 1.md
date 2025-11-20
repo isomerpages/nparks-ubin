@@ -15,7 +15,8 @@ in use and is closed off as a family of <strong><a href="https://www.nparks.gov.
 reside in the chimney of the house. Another rare species of <strong><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/2/1/219" rel="noopener noreferrer nofollow" target="_blank">Malayan False Vampire bats (</a><em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/2/1/219" rel="noopener noreferrer nofollow" target="_blank">Megaderma spasma</a></em><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/2/1/219" rel="noopener noreferrer nofollow" target="_blank">)</a></strong> can
 also be found in an old water tower just beside the house. The water tower
 and the bats were not disturbed, and a new water tank was constructed for
-use instead.
+use instead.</p>
+<p>
 <br>The ground level of the visitor centre houses showcase information panels
 and interpretive displays that depict the history and beauty of the natural
 heritage in Chek Jawa.</p>
