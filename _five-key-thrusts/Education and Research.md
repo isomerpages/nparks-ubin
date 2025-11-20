@@ -143,12 +143,12 @@ listen for bird calls and record the number of species they encounter while
 walking specific routes. Schools are also roped in to help monitor the
 progress of habitat enhancement and species recovery projects on the island.
 <br>
-<br>To supplement bird surveys, <strong><a href="https://www.nparks.gov.sg/nparksbuzz/issue-02-vol-2-2009/conservation/about-birds-and-their-bands" rel="noopener noreferrer" target="_blank">bird ringing</a></strong> sessions
-are also conducted. During these sessions, mist nets are put up to catch
-birds, and basic measurements and observations are recorded. A small ring
-with a unique number is then fitted around each bird’s leg before release.
-This allows researchers to identify and track the bird’s movement if it
-is recaptured in future surveys. Data collected from bird ringing surveys
-provide useful information on migratory patterns, life history, population,
-distribution and habitat use of different bird species.</p>
+<br>To supplement bird surveys, bird ringing sessions are also conducted.
+During these sessions, mist nets are put up to catch birds, and basic measurements
+and observations are recorded. A small ring with a unique number is then
+fitted around each bird’s leg before release. This allows researchers to
+identify and track the bird’s movement if it is recaptured in future surveys.
+Data collected from bird ringing surveys provide useful information on
+migratory patterns, life history, population, distribution and habitat
+use of different bird species.</p>
 <p>&nbsp;</p>

@@ -59,7 +59,7 @@ find out more about the Rustic Reflections Tour.</p>
 <p>For a unique escape from the hustle and bustle of city life, camp out
 at Jelutong Campsite, Mamam Campsite or Endut Senin Campsite. All campsites
 have basic toilet amenities and campfire pits.</p>
-<p>Click&nbsp;<strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/camping" rel="noopener noreferrer" target="_blank">here&nbsp;</a></strong>to
+<p>Click&nbsp;<strong><a href="https://ubin.nparks.gov.sg/camping/" rel="noopener noreferrer" target="_blank">here&nbsp;</a></strong>to
 find out more about the camp sites and application.</p>
 <p></p>
 <p><strong>Cycling</strong>
@@ -71,7 +71,7 @@ orchards...&nbsp;perhaps you will chance upon a few durians or mangosteens!</p>
 45-ha Ketam Mountain Bike Park. Designed to meet international competition
 standards, it has about 10 km of tracks around the fringes of Ketam Quarry,
 offering exhilarating and challenging rides.</p>
-<p>Click<strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/cycling" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://ubin.nparks.gov.sg/cycling/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the cycling routes.</p>
 <hr>
 <h4>Interesting Places to Visit!</h4>
@@ -103,7 +103,7 @@ by past and present residents, as well as friends of Pulau Ubin.</p>
 fourth weekends each month, as well as during public holidays. Participants
 of the Kampong Tour and Rustic Reflections Tour will also get to visit
 the house.</p>
-<p>Click <strong><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/teck-seng-place" rel="noopener noreferrer" target="_blank">here </a></strong>to
+<p>Click <strong><a href="https://ubin.nparks.gov.sg/teck-seng-s-place/" rel="noopener noreferrer" target="_blank">here</a><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/teck-seng-place" rel="noopener noreferrer" target="_blank"> </a></strong>to
 find out more about Teck Seng's Place.</p>
 <p></p>
 <p><strong>Chek Jawa Wetlands</strong>
@@ -132,7 +132,7 @@ need to spend only half an hour on a sunny day to encounter more than 20
 species fluttering around. More than 50 butterfly-attracting plant species
 have been included in the landscape. Today, Butterfly Hill serves as a
 successful model to both conserve and increase public appreciation of butterflies.</p>
-<p>Click<strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/butterfly-hill" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://ubin.nparks.gov.sg/butterfly-hill/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the Butterfly Hill.</p>
 <p>&nbsp;</p>
 <p><strong>Puaka Hill</strong>
