@@ -83,7 +83,7 @@ It offers a glimpse into the early days of Singapore, when such plants
 were widely used in village life. The 1.5 km trail also leads you through
 mangroves and ends at the freshwater Sensory Trail Pond which offers scenic
 views and wonderful photo opportunities.</p>
-<p>Click<strong><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/sensory-trail-garden" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://ubin.nparks.gov.sg/sensory-trail-garden/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the Sensory Trail.</p>
 <p></p>
 <p><strong>Teck&nbsp;Seng’s&nbsp;Place</strong>
