@@ -20,7 +20,7 @@ who have difficulties moving around.</div>
 <div class="isomer-card-description">Pulau Ubin has a number of shrines and temples but probably one of the
 most well-known is the German Girl Shrine.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://ubin.nparks.gov.sg/house-1/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">House No.1</div><div class="isomer-card-description">Located at the entrance of Chek Jawa, the visitor centre was converted from a 1930s Tudor-style house. Fondly known as House No. 1, it was carefully restored and awarded conservation status by the Urban Redevelopment Authority in December 2003.</div><div class="isomer-card-link">Find out more about House No.1 here</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://ubin.nparks.gov.sg/house-1/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">House No.1</div><div class="isomer-card-description">Located at the entrance of Chek Jawa, the visitor centre was converted from a 1930s Tudor-style house. Fondly known as House No. 1, it was carefully restored and awarded conservation status by the Urban Redevelopment Authority in December 2003.</div><div class="isomer-card-link">Find out more here</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sensory Trail Garden</div>
