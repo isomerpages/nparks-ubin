@@ -103,7 +103,7 @@ by past and present residents, as well as friends of Pulau Ubin.</p>
 fourth weekends each month, as well as during public holidays. Participants
 of the Kampong Tour and Rustic Reflections Tour will also get to visit
 the house.</p>
-<p>Click <strong><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/teck-seng-place" rel="noopener noreferrer" target="_blank">here </a></strong>to
+<p>Click <strong><a href="https://ubin.nparks.gov.sg/teck-seng-s-place/" rel="noopener noreferrer" target="_blank">here</a><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/teck-seng-place" rel="noopener noreferrer" target="_blank"> </a></strong>to
 find out more about Teck Seng's Place.</p>
 <p></p>
 <p><strong>Chek Jawa Wetlands</strong>
@@ -132,7 +132,7 @@ need to spend only half an hour on a sunny day to encounter more than 20
 species fluttering around. More than 50 butterfly-attracting plant species
 have been included in the landscape. Today, Butterfly Hill serves as a
 successful model to both conserve and increase public appreciation of butterflies.</p>
-<p>Click<strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/butterfly-hill" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://ubin.nparks.gov.sg/butterfly-hill/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the Butterfly Hill.</p>
 <p>&nbsp;</p>
 <p><strong>Puaka Hill</strong>
