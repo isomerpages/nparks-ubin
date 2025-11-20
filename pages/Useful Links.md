@@ -37,7 +37,7 @@ Singapore story, sharing the Singaporean experience and imparting our Singapore
 spirit.</p>
 </li>
 <li>
-<p><strong><a href="http://wildsingapore.com/chekjawa/index.html" rel="noopener nofollow" target="_blank">Wild Singapore - Chek Jawa</a></strong>
+<p><strong><a href="http://wildsingapore.com/places/cj.htm" rel="noopener nofollow" target="_blank">Wild Singapore - Chek Jawa</a></strong>
 </p>
 <p>A series of online resources that provide useful information for those
 who want to learn about our wild places; and do more for them.</p>
