@@ -13,7 +13,7 @@ that is open for the public to learn about Pulau Ubin's cultural heritage.
 Many photographs and display items in it were contributed by the local
 Ubin community.</p>
 <h4>Ubin Day</h4>
-<p>First started in 2002, <strong><a href="https://www.nparks.gov.sg/activities/events-and-workshops/2020/9/pesta-ubin-and-ubin-day-2020" rel="noopener noreferrer" target="_blank">Ubin Day</a></strong> is
+<p>First started in 2002, <strong><a href="https://pulau-ubin.nparks.gov.sg/pesta-ubin-ubin-day/" rel="noopener noreferrer" target="_blank">Ubin Day</a></strong> is
 a yearly community event held at Pulau Ubin to celebrate the different
 facets of the island. During Ubin Day, various community groups set up
 educational booths and organise a myriad of activities in collaboration
