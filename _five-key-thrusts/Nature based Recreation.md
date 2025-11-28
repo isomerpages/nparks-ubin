@@ -25,33 +25,6 @@ sandbar and appreciate the diversity of inter-tidal marine life. Take the
 challenge to climb the 21 metre Jejawi Tower to take in the scenic view!</p>
 <p>Click <strong><a href="https://pulau-ubin.nparks.gov.sg/chek-jawa-wetlands/" rel="noopener noreferrer" target="_blank">here </a></strong>to
 find out more about Chek Jawa Wetlands.</p>
-<p></p>
-<p><strong>Kampong Tour</strong>
-</p>
-<p>This short tour gives a glimpse of life on Pulau Ubin in the early days.
-Guides will bring you to several landmarks and reconnect you with the past
-when granite mining was a key industry and the island supported a few thousand
-residents. Learn to identify trees commonly found in the kampong, and encounter
-birds and butterflies along the way. You will also get to visit Teck&nbsp;Seng’s&nbsp;Place,
-a restored Chinese kampong house.</p>
-<p>Click <strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/nature-walks-and-trails/kampong-tour" rel="noopener noreferrer" target="_blank">here</a></strong> to
-find out more about the Kampong Tour.</p>
-<p>&nbsp;</p>
-<p><strong>Rustic Reflections Tour</strong>
-</p>
-<p>Take a walk down memory lane and discover Pulau&nbsp;Ubin’s&nbsp;cultural
-heritage. You will visit the <strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/st-pond" rel="noopener noreferrer" target="_blank">Sensory Trail Pond </a></strong>where
-our guides will share about the history of the area and habitat enhancement
-efforts to transform the pond into a haven for wildlife. You will also
-have the opportunity to visit the homes of villagers and interact with
-them. Included in the itinerary are visits to a rubber plantation that
-once supplied Singapore with latex, and the Ubin Fruit Orchard, where you
-can get acquainted with local fruit trees. The last stop of the tour is
-Teck&nbsp;Seng’s&nbsp;Place.</p>
-<p></p>
-<p>Click <strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/nature-walks-and-trails/rustic-reflections-tour" rel="noopener noreferrer" target="_blank">here </a></strong>to
-find out more about the Rustic Reflections Tour.</p>
-<p>&nbsp;</p>
 <hr>
 <h4>Enjoying the Great Outdoors!</h4>
 <p><strong>Camping</strong>
@@ -59,7 +32,7 @@ find out more about the Rustic Reflections Tour.</p>
 <p>For a unique escape from the hustle and bustle of city life, camp out
 at Jelutong Campsite, Mamam Campsite or Endut Senin Campsite. All campsites
 have basic toilet amenities and campfire pits.</p>
-<p>Click&nbsp;<strong><a href="https://ubin.nparks.gov.sg/camping/" rel="noopener noreferrer" target="_blank">here&nbsp;</a></strong>to
+<p>Click&nbsp;<strong><a href="https://pulau-ubin.nparks.gov.sg/camping/" rel="noopener noreferrer" target="_blank">here</a><a href="https://ubin.nparks.gov.sg/camping/" rel="noopener noreferrer" target="_blank">&nbsp;</a></strong>to
 find out more about the camp sites and application.</p>
 <p></p>
 <p><strong>Cycling</strong>
@@ -71,7 +44,7 @@ orchards...&nbsp;perhaps you will chance upon a few durians or mangosteens!</p>
 45-ha Ketam Mountain Bike Park. Designed to meet international competition
 standards, it has about 10 km of tracks around the fringes of Ketam Quarry,
 offering exhilarating and challenging rides.</p>
-<p>Click<strong><a href="https://ubin.nparks.gov.sg/cycling/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://pulau-ubin.nparks.gov.sg/cycling/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the cycling routes.</p>
 <hr>
 <h4>Interesting Places to Visit!</h4>
@@ -81,10 +54,10 @@ find out more about the cycling routes.</p>
 and engage the five senses through the plants that the villagers grew.
 It offers a glimpse into the early days of Singapore, when such plants
 were widely used in village life. The 1.5 km trail also leads you through
-mangroves and ends at the freshwater Sensory Trail Pond which offers scenic
-views and wonderful photo opportunities.</p>
-<p>Click<strong><a href="https://ubin.nparks.gov.sg/sensory-trail-garden/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
-find out more about the Sensory Trail.</p>
+mangroves and ends at the freshwater <a href="https://pulau-ubin.nparks.gov.sg/sensory-trail-pond/" rel="noopener nofollow" target="_blank">Sensory Trail Pond</a> which
+offers scenic views and wonderful photo opportunities.</p>
+<p>Click<strong><a href="https://pulau-ubin.nparks.gov.sg/sensory-trail-garden/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+find out more about the Sensory Trail Garden.</p>
 <p></p>
 <p><strong>Teck&nbsp;Seng’s&nbsp;Place</strong>
 </p>
@@ -103,7 +76,7 @@ by past and present residents, as well as friends of Pulau Ubin.</p>
 fourth weekends each month, as well as during public holidays. Participants
 of the Kampong Tour and Rustic Reflections Tour will also get to visit
 the house.</p>
-<p>Click <strong><a href="https://ubin.nparks.gov.sg/teck-seng-s-place/" rel="noopener noreferrer" target="_blank">here</a><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/teck-seng-place" rel="noopener noreferrer" target="_blank"> </a></strong>to
+<p>Click <strong><a href="https://pulau-ubin.nparks.gov.sg/teck-seng-s-place/" rel="noopener noreferrer" target="_blank">here </a></strong>to
 find out more about Teck Seng's Place.</p>
 <p></p>
 <p><strong>Chek Jawa Wetlands</strong>
@@ -132,7 +105,7 @@ need to spend only half an hour on a sunny day to encounter more than 20
 species fluttering around. More than 50 butterfly-attracting plant species
 have been included in the landscape. Today, Butterfly Hill serves as a
 successful model to both conserve and increase public appreciation of butterflies.</p>
-<p>Click<strong><a href="https://ubin.nparks.gov.sg/butterfly-hill/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://pulau-ubin.nparks.gov.sg/butterfly-hill/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the Butterfly Hill.</p>
 <p>&nbsp;</p>
 <p><strong>Puaka Hill</strong>
