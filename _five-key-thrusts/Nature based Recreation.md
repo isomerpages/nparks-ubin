@@ -54,7 +54,7 @@ find out more about the cycling routes.</p>
 and engage the five senses through the plants that the villagers grew.
 It offers a glimpse into the early days of Singapore, when such plants
 were widely used in village life. The 1.5 km trail also leads you through
-mangroves and ends at the freshwater <a href="https://pulau-ubin.nparks.gov.sg/places-of-interest/st-pond/" rel="noopener nofollow" target="_blank">Sensory Trail Pond</a> which
+mangroves and ends at the freshwater <a href="https://pulau-ubin.nparks.gov.sg/sensory-trail-pond/" rel="noopener nofollow" target="_blank">Sensory Trail Pond</a> which
 offers scenic views and wonderful photo opportunities.</p>
 <p>Click<strong><a href="https://pulau-ubin.nparks.gov.sg/sensory-trail-garden/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the Sensory Trail Garden.</p>
