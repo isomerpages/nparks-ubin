@@ -14,4 +14,4 @@ get to know the economic crops that are important to Pulau Ubin in the
 1970s. This is an excellent introduction to the rustic and natural character
 of the island.</p>
 <p>Explore the rest of the Sensory Trail to view the habitat enhancement
-works completed at the&nbsp;<strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/st-pond" rel="noopener noreferrer" target="_blank">Sensory Trail Pond</a></strong>.</p>
+works completed at the&nbsp;<strong><a href="https://pulau-ubin.nparks.gov.sg/sensory-trail-pond/" rel="noopener noreferrer" target="_blank">Sensory Trail Pond</a></strong>.</p>
