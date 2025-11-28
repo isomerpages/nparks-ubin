@@ -25,33 +25,6 @@ sandbar and appreciate the diversity of inter-tidal marine life. Take the
 challenge to climb the 21 metre Jejawi Tower to take in the scenic view!</p>
 <p>Click <strong><a href="https://pulau-ubin.nparks.gov.sg/chek-jawa-wetlands/" rel="noopener noreferrer" target="_blank">here </a></strong>to
 find out more about Chek Jawa Wetlands.</p>
-<p></p>
-<p><strong>Kampong Tour</strong>
-</p>
-<p>This short tour gives a glimpse of life on Pulau Ubin in the early days.
-Guides will bring you to several landmarks and reconnect you with the past
-when granite mining was a key industry and the island supported a few thousand
-residents. Learn to identify trees commonly found in the kampong, and encounter
-birds and butterflies along the way. You will also get to visit Teck&nbsp;Seng’s&nbsp;Place,
-a restored Chinese kampong house.</p>
-<p>Click <strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/nature-walks-and-trails/kampong-tour" rel="noopener noreferrer" target="_blank">here</a></strong> to
-find out more about the Kampong Tour.</p>
-<p>&nbsp;</p>
-<p><strong>Rustic Reflections Tour</strong>
-</p>
-<p>Take a walk down memory lane and discover Pulau&nbsp;Ubin’s&nbsp;cultural
-heritage. You will visit the <strong><a href="https://www.nparks.gov.sg/pulau-ubin/biodiversity/places-of-interest/st-pond" rel="noopener noreferrer" target="_blank">Sensory Trail Pond </a></strong>where
-our guides will share about the history of the area and habitat enhancement
-efforts to transform the pond into a haven for wildlife. You will also
-have the opportunity to visit the homes of villagers and interact with
-them. Included in the itinerary are visits to a rubber plantation that
-once supplied Singapore with latex, and the Ubin Fruit Orchard, where you
-can get acquainted with local fruit trees. The last stop of the tour is
-Teck&nbsp;Seng’s&nbsp;Place.</p>
-<p></p>
-<p>Click <strong><a href="https://www.nparks.gov.sg/pulau-ubin/activities/nature-walks-and-trails/rustic-reflections-tour" rel="noopener noreferrer" target="_blank">here </a></strong>to
-find out more about the Rustic Reflections Tour.</p>
-<p>&nbsp;</p>
 <hr>
 <h4>Enjoying the Great Outdoors!</h4>
 <p><strong>Camping</strong>
