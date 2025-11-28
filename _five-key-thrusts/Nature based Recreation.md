@@ -54,10 +54,10 @@ find out more about the cycling routes.</p>
 and engage the five senses through the plants that the villagers grew.
 It offers a glimpse into the early days of Singapore, when such plants
 were widely used in village life. The 1.5 km trail also leads you through
-mangroves and ends at the freshwater Sensory Trail Pond which offers scenic
-views and wonderful photo opportunities.</p>
-<p>Click<strong><a href="https://ubin.nparks.gov.sg/sensory-trail-garden/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
-find out more about the Sensory Trail.</p>
+mangroves and ends at the freshwater <a href="https://pulau-ubin.nparks.gov.sg/places-of-interest/st-pond/" rel="noopener nofollow" target="_blank">Sensory Trail Pond</a> which
+offers scenic views and wonderful photo opportunities.</p>
+<p>Click<strong><a href="https://pulau-ubin.nparks.gov.sg/sensory-trail-garden/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+find out more about the Sensory Trail Garden.</p>
 <p></p>
 <p><strong>Teck&nbsp;Seng’s&nbsp;Place</strong>
 </p>
@@ -105,7 +105,7 @@ need to spend only half an hour on a sunny day to encounter more than 20
 species fluttering around. More than 50 butterfly-attracting plant species
 have been included in the landscape. Today, Butterfly Hill serves as a
 successful model to both conserve and increase public appreciation of butterflies.</p>
-<p>Click<strong><a href="https://ubin.nparks.gov.sg/butterfly-hill/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
+<p>Click<strong><a href="https://pulau-ubin.nparks.gov.sg/butterfly-hill/" rel="noopener noreferrer" target="_blank"> here</a></strong> to
 find out more about the Butterfly Hill.</p>
 <p>&nbsp;</p>
 <p><strong>Puaka Hill</strong>
