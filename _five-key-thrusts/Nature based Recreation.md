@@ -76,7 +76,7 @@ by past and present residents, as well as friends of Pulau Ubin.</p>
 fourth weekends each month, as well as during public holidays. Participants
 of the Kampong Tour and Rustic Reflections Tour will also get to visit
 the house.</p>
-<p>Click <strong><a href="https://ubin.nparks.gov.sg/teck-seng-s-place/" rel="noopener noreferrer" target="_blank">here</a><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/teck-seng-place" rel="noopener noreferrer" target="_blank"> </a></strong>to
+<p>Click <strong><a href="https://pulau-ubin.nparks.gov.sg/teck-seng-s-place/" rel="noopener noreferrer" target="_blank">here </a></strong>to
 find out more about Teck Seng's Place.</p>
 <p></p>
 <p><strong>Chek Jawa Wetlands</strong>
