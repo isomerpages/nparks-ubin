@@ -17,5 +17,5 @@ such as Grey Sedge (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb
 rhododendron (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2221" rel="noopener noreferrer" target="_blank">Melastoma malabathricum</a></em></strong>)<em> </em>and
 Rough Horsetail (<strong><em><a href="https://www.nparks.gov.sg/florafaunaweb/flora/1/5/1550" rel="noopener noreferrer" target="_blank">Equisetum hyemale</a></em></strong>).
 Some aquatic birds also use the plants to hide from other predatory animals.</p>
-<p>Explore the rest of the Sensory Trail by visiting the <strong><a href="https://www.nparks.gov.sg/pulau-ubin/heritage/places-of-interest/sensory-trail-garden" rel="noopener noreferrer" target="_blank">Sensory Trail Garden</a></strong>&nbsp;to
+<p>Explore the rest of the Sensory Trail by visiting the <strong><a href="https://pulau-ubin.nparks.gov.sg/sensory-trail-garden" rel="noopener noreferrer" target="_blank">Sensory Trail Garden</a></strong>&nbsp;to
 experience the backyard planting of the Pulau Ubin village home.</p>
