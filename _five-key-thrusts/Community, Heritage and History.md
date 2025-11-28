@@ -35,7 +35,7 @@ to be the first in a series of community get-togethers and included games,
 dinner, a documentary screening and even a “lohei” session.&nbsp;</p>
 <p>Tudor House in Pulau Ubin</p>
 <p>This one-of-a-kind house may well be the only authentic Tudor-style building
-with a fireplace in Singapore. Fondly known as<strong><a href="https://ubin.nparks.gov.sg/house-1/" rel="noopener noreferrer" target="_blank"> House No. 1 </a></strong>(its
+with a fireplace in Singapore. Fondly known as<strong><a href="https://pulau-ubin.nparks.gov.sg/house-1/" rel="noopener noreferrer" target="_blank"> House No. 1 </a></strong>(its
 postal address on Pulau Ubin), the cottage was built in the 1930s by the
 then Chief Surveyor, Langdon Williams, as a holiday retreat. Its unique
 architecture style is similar to that of tea plantation residences during
