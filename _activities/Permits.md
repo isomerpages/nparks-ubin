@@ -62,7 +62,7 @@ research purposes.</p>
 <p></p>
 <p>Please not that casual visitation on the publicly accessible trails and
 boardwalks <strong>do not</strong> require a permit.</p>
-<p><a href="/files/CJW_Permit__updated_2023_.pdf" rel="noopener nofollow" target="_blank">Application for Permit to conduct activities to Chek Jawa Wetlands/Sekudu Island, Pulau Ubin</a>
+<p><a href="/files/CJW_Permit_V5.pdf" rel="noopener nofollow" target="_blank">Application for Permit to conduct activities at Chek Jawa Wetlands/Sekudu Island, Pulau Ubin</a>
 </p>
 <hr>
 <h4>Research Permit</h4>
