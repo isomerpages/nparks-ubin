@@ -10,12 +10,12 @@ description: ""
 <p>For safety, please do not enter when the area is flooded. During bad weather,
 seek cover at the nearest shelter available and avoid entering forested
 areas, including nature reserves and nature parks.</p>
-<p>Before your visit, remember to check the weather forecast. We also encourage
-you to subscribe to the <a href="https://www.weather.gov.sg/warning-heavy-rain" rel="noopener nofollow" target="_blank">Meteorological Service Singapore's Heavy Rain Warnings</a> to
+<p>Before your visit, refer to the&nbsp;<a href="/files/Tanjong Changi tide table 2026/Tanjong_Changi___tide_table_2026__public_info_.pdf" rel="noopener nofollow" target="_blank">Tide Table 2026</a> and
+remember to check the weather forecast. We also encourage you to subscribe
+to the <a href="https://www.weather.gov.sg/warning-heavy-rain" rel="noopener nofollow" target="_blank">Meteorological Service Singapore's Heavy Rain Warnings</a> to
 receive SMS alerts. Seek shelter during bad weather. Avoid entering forested
 areas during and immediately after heavy rain.</p>
-<p>&nbsp;</p>
-<hr>
+<p></p>
 <p></p>
 <p>4 Jan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 0100hrs – 0130hrs (3.3m at 0100hrs)</p>
