@@ -115,6 +115,17 @@ on how to protect yourself against scams, pls visit <a rel="noopener noreferrer 
 track closure for maintenance works until further notice.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Operating Hours of Restaurants during Chinese New Year</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please note that the following restaurants will be closed during these
+times for Chinese New Year:</p>
+<p>Sin Lam Huat - 12 Feb to 23 Feb</p>
+<p>Season Live Seafood - 11 Feb to 20 Feb</p>
+<p>Cheong Lian Yuen - Temporarily Closed</p>
+</div>
+</details>
 </div>
 <h4>Emergency contacts</h4>
 <p>In case of any emergency or accident, please call 995/999</p>
