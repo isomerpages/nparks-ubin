@@ -6,14 +6,14 @@ description: ""
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Temporary Closure of Mangrove Loop Boardwalk at Chek Jawa Wetlands</strong>
+<summary><strong>Temporary Closure of a Section of the Mangrove Loop Boardwalk at Chek Jawa Wetlands</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Mangrove Loop boardwalk at Chek Jawa Wetlands (<a href="/files/Mangrove_Loop_Boardwalk_Closure_from_Nov_2025_to_Feb_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>indicated in red</u></a>)
-and Jejawi Tower are closed for maintenance from <u>20 Nov 2025</u>. Visitors
+<p>A section of the Mangrove Loop boardwalk at Chek Jawa Wetlands (<a href="/files/29_Jan_2026_Extended_Mangrove_Boardwalk_Closure_till_Mar_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>indicated in red</u></a>)
+and Jejawi Tower are closed for maintenance from <u>28 Feb 2026</u>. Visitors
 can continue to explore using the Coastal Loop boardwalk.</p>
 <p></p>
-<p>Expected completion date: <u>28 Feb 2026</u>
+<p>Expected completion date: <u>31 Mar 2026</u>
 </p>
 </div>
 </details>
