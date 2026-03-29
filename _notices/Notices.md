@@ -18,7 +18,7 @@ water's edge.</p>
 <p>Please alert NParks' Animal Response Centre at 1800-476-1600 should you
 sight any crocodile. Do not approach, provoke, or&nbsp;attempt&nbsp;to
 feed the animal under any circumstances.&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
+<p></p>
 <p>For more information about Estuarine Crocodiles, please visit the&nbsp;NParks&nbsp;website:&nbsp;
 <a href="https://avs.nparks.gov.sg/wildlife/encountering-wildlife/estuarine-crocodiles/" rel="noopener noreferrer nofollow" target="_blank">Estuarine Crocodiles</a>.&nbsp;&nbsp;</p>
 </div>
