@@ -6,15 +6,21 @@ description: ""
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Temporary Closure of a Section of the Mangrove Loop Boardwalk at Chek Jawa Wetlands</strong>
+<summary><strong>Crocodile sighting reported</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A section of the Mangrove Loop boardwalk at Chek Jawa Wetlands (<a href="/files/29_Jan_2026_Extended_Mangrove_Boardwalk_Closure_till_Mar_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>indicated in red</u></a>)
-and Jejawi Tower are closed for maintenance from <u>28 Feb 2026</u>. Visitors
-can continue to explore using the Coastal Loop boardwalk.</p>
+<p>A verified crocodile sighting was reported at Sungei Puaka on 28 March
+2026.</p>
 <p></p>
-<p>Expected completion date: <u>31 Mar 2026</u>
-</p>
+<p>Please exercise caution when conducting water activities and when at the
+water's edge.</p>
+<p></p>
+<p>Please alert NParks' Animal Response Centre at 1800-476-1600 should you
+sight any crocodile. Do not approach, provoke, or&nbsp;attempt&nbsp;to
+feed the animal under any circumstances.&nbsp;</p>
+<p></p>
+<p>For more information about Estuarine Crocodiles, please visit the&nbsp;NParks&nbsp;website:&nbsp;
+<a href="https://avs.nparks.gov.sg/wildlife/encountering-wildlife/estuarine-crocodiles/" rel="noopener noreferrer nofollow" target="_blank">Estuarine Crocodiles</a>.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -116,14 +122,15 @@ track closure for maintenance works until further notice.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Operating Hours of Restaurants during Chinese New Year</strong>
+<summary><strong>Temporary Closure of a section of the mangrove loop boardwalk at Chek Jawa Wetlands</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please note that the following restaurants will be closed during these
-times for Chinese New Year:</p>
-<p>Sin Lam Huat - 12 Feb to 23 Feb</p>
-<p>Season Live Seafood - 11 Feb to 20 Feb</p>
-<p>Cheong Lian Yuen - Temporarily Closed</p>
+<p>A section of the Mangrove Loop boardwalk at Chek Jawa Wetlands (<a href="https://cms.isomer.gov.sg/files/29_Jan_2026_Extended_Mangrove_Boardwalk_Closure_till_Mar_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>indicated in red</u></a>)
+and Jejawi Tower are closed for maintenance from <u>28 Feb 2026</u>. Visitors
+can continue to explore using the Coastal Loop boardwalk.</p>
+<p></p>
+<p>Expected completion date: <u>31 Mar 2026</u>
+</p>
 </div>
 </details>
 </div>
