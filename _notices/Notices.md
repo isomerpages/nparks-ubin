@@ -122,14 +122,16 @@ track closure for maintenance works until further notice.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Temporary Closure of a section of the mangrove loop boardwalk at Chek Jawa Wetlands</strong>
+<summary><strong>Temporary Closure of a section of the Mangrove Loop boardwalk at Chek Jawa Wetlands</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A section of the Mangrove Loop boardwalk at Chek Jawa Wetlands (<a href="https://cms.isomer.gov.sg/files/29_Jan_2026_Extended_Mangrove_Boardwalk_Closure_till_Mar_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>indicated in red</u></a>)
-and Jejawi Tower are closed for maintenance from <u>28 Feb 2026</u>. Visitors
-can continue to explore using the Coastal Loop boardwalk.</p>
+<p>A section of the Mangrove Loop boardwalk at Chek Jawa Wetlands (<a href="/files/1_Apr_Partial_Mangrove_Boardwalk_Closure_till_Apr_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>indicated in red</u></a>)
+is closed for maintenance. There is no access here.</p>
 <p></p>
-<p>Expected completion date: <u>31 Mar 2026</u>
+<p>Visitors can access Jejawi Tower and the open section of the Mangrove
+Loop (indicated in yellow) during this period.</p>
+<p></p>
+<p>Expected completion date: <u>30 Apr 2026</u>
 </p>
 </div>
 </details>
