@@ -10,7 +10,8 @@ Point Ferry Terminal (adjacent to Changi Village).</p>
 are privately managed transport services. They usually operate on demand
 from 6 am to 7 pm daily, departing when there are 12 passengers on board.
 The 10-minute journey typically costs $4 per person each way, with an additional
-$2 for bicycles.</p>
+$2 for bicycles (due to the current economic situation, a fuel surcharge
+might be added by bumboat operators).</p>
 <p>Operators may depart with fewer than 12 passengers, or outside of the
 operating hours of 6am to 7pm, at a higher fare per passenger, based on
 private arrangements between the passengers and operators. Do confirm fares
