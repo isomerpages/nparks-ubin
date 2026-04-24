@@ -121,20 +121,6 @@ on how to protect yourself against scams, pls visit <a rel="noopener noreferrer 
 track closure for maintenance works until further notice.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Temporary Closure of a section of the Mangrove Loop boardwalk at Chek Jawa Wetlands</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>A section of the Mangrove Loop boardwalk at Chek Jawa Wetlands (<a href="/files/1_Apr_Partial_Mangrove_Boardwalk_Closure_till_Apr_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>indicated in red</u></a>)
-is closed for maintenance. There is no access here.</p>
-<p></p>
-<p>Visitors can access Jejawi Tower and the open section of the Mangrove
-Loop (indicated in yellow) during this period.</p>
-<p></p>
-<p>Expected completion date: <u>30 Apr 2026</u>
-</p>
-</div>
-</details>
 </div>
 <h4>Emergency contacts</h4>
 <p>In case of any emergency or accident, please call 995/999</p>
