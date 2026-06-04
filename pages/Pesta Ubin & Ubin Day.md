@@ -15,19 +15,18 @@ enjoy the island’s unique charm and discover its wildlife.</p>
 <p>Pesta Ubin is made possible by the passionate members of the Friends of
 Ubin Network (FUN), with the support of the NParks.</p>
 <hr>
-<p><strong>Pesta Ubin and Ubin Day 2025</strong>
+<p><strong>Pesta Ubin and Ubin Day 2026</strong>
 </p>
 <p>Experience the rustic charm of Pulau Ubin at this year's Pesta Ubin and
 Ubin Day!</p>
-<p>Discover the island's hidden treasures through an exciting array of activities
-inspired by this year’s theme "Living Heritage, Loving Biodiversity". From
-fascinating guided nature walks and cultural tours to immersive forest
-bathing sessions, there is something for everyone. Listen to tales and
-legends of the island, or explore the wondrous wildlife of Ubin through
-photography. Our experienced guides will share insights about Ubin’s rich
-biodiversity, cultural heritage, and historical significance.</p>
-<p>Don't miss the highlight of the festival - Ubin Day! Pop by on 28 June
-to delight in all the interactive booths, traditional games, or film screening.</p>
+<p>Inspired by the theme "Share the Island, Shape the Future", the festivities
+feature an exciting array of activities — from fascinating guided nature
+walks and cultural tours to learning how to create an Ubin mascot, and
+kampung games, as well as immersive nature therapy sessions — with something
+for everyone to enjoy. This year's activities celebrate the diverse communities
+that come together to cherish Pulau Ubin's remarkable biodiversity and
+rich cultural heritage, deepening our collective appreciation and love
+for this unique island.</p>
 <p>Come be part of this unique celebration that brings people from all walks
 of lives together!</p>
 <p>
@@ -45,7 +44,7 @@ of lives together!</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Date: 14 to 28 June 2025</p>
+<p>Date: 8 to 21 June 2025</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -54,7 +53,7 @@ of lives together!</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Date: 28 June 2025, Saturday</p>
+<p>Date: 20 June 2025, Saturday</p>
 <p>Time: 9 am to 12 pm</p>
 <p>Venue: Assembly Area</p>
 <p>&nbsp;</p>
@@ -62,13 +61,14 @@ of lives together!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><a href="https://pestaubin2025.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Register for events and activities</a></strong>
+<p><strong><a href="https://sites.google.com/view/pestaubin" rel="noopener noreferrer nofollow" target="_blank">Register for events and activities</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;Pesta Ubin is made possible by the passionate members of the Friends
+of Ubin Network (FUN), with the support of the NParks.</p>
 <p></p>
 <p></p>
 <p><u>Follow Pesta Ubin on these channels:</u>
@@ -77,7 +77,4 @@ of lives together!</p>
 </p>
 <p>Instagram: <strong><a href="https://www.facebook.com/pulauubinday/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/pesta.ubin/</a></strong>
 </p>
-<p>Tiktok: <strong><a href="https://www.facebook.com/pulauubinday/" rel="noopener noreferrer nofollow" target="_blank">https://www.tiktok.com/@pesta.ubin</a></strong>
-</p>
-<p>YouTube: <strong><a href="https://www.facebook.com/pulauubinday/" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/@pestaubin</a></strong>
-</p>
+<p>We hope to see you there!</p>
