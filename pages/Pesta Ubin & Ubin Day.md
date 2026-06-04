@@ -15,6 +15,10 @@ enjoy the island’s unique charm and discover its wildlife.</p>
 <p>Pesta Ubin is made possible by the passionate members of the Friends of
 Ubin Network (FUN), with the support of the NParks.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pesta Ubin 2026 logo. Two cyclists on an island held by hands, with a hornbill" src="/images/Updated_Pesta_Ubin_Logo_2026.png">
+</div>
 <p><strong>Pesta Ubin and Ubin Day 2026</strong>
 </p>
 <p>Experience the rustic charm of Pulau Ubin at this year's Pesta Ubin and
