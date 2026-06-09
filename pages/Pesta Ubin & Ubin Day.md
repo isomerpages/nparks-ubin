@@ -48,7 +48,7 @@ of lives together!</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Date: 8 to 21 June 2025</p>
+<p>Date: 8 to 21 June 2026</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -57,7 +57,7 @@ of lives together!</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Date: 20 June 2025, Saturday</p>
+<p>Date: 20 June 2026, Saturday</p>
 <p>Time: 9 am to 12 pm</p>
 <p>Venue: Assembly Area</p>
 <p>&nbsp;</p>
