@@ -33,7 +33,7 @@ of our natural world deserves protection and study.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>You may download the full copy of the e-publication <a href="https://go.gov.sg/epub_ubin_2026" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">An Update of the Biodiversity in Pulau Ubin, Singapore</a>,
+<p>You may download the full copy of the e-publication <a href="https://go.gov.sg/epub-ubin-2026" rel="noopener nofollow" target="_blank">An Update of the Biodiversity in Pulau Ubin, Singapore</a>,
 or browse individual content below.</p>
 </th>
 </tr>
