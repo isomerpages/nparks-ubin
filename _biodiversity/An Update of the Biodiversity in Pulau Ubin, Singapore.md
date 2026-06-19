@@ -67,7 +67,8 @@ Trade and Industry, Chairman of the Friends of Ubin Network</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foreword</p>
+<p><a href="https://go.gov.sg/ubin-foreword" rel="noopener nofollow" target="_blank">Foreword</a>
+</p>
 </td>
 </tr>
 <tr>
