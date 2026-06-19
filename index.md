@@ -34,8 +34,8 @@ sections:
       title: An Update of the Biodiversity in Pulau Ubin
       subtitle: E-publication
       id: infopic
-      button: Button Text
-      url: Find out more
+      button: Find out more
+      url: /an-update-of-the-biodiversity-in-pulau-ubin-singapore/
       image: /images/Cover_Back.png
       alt: Front and back cover
   - infobar:
