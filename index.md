@@ -30,6 +30,14 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+  - infopic:
+      title: An Update of the Biodiversity in Pulau Ubin
+      subtitle: E-publication
+      id: infopic
+      button: Button Text
+      url: Find out more
+      image: /images/Cover_Back.png
+      alt: Front and back cover
   - infobar:
       title: Pesta Ubin & Ubin Day
       id: infobar
