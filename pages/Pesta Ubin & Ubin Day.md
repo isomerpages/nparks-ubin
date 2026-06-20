@@ -79,7 +79,7 @@ of Ubin Network (FUN), with the support of the NParks.</p>
 </p>
 <p>Facebook: <a href="https://facebook.com/ubinFUN" rel="noopener nofollow" target="_blank">https://facebook.com/ubinFUN</a>
 </p>
-<p>Telegram: <a href="" rel="noopener nofollow" target="_blank">https://www.instagram.com/ubinFUN</a>
+<p>Telegram: <a href="https://www.instagram.com/ubinFUN" rel="noopener nofollow" target="_blank">https://www.instagram.com/ubinFUN</a>
 </p>
 <p></p>
 <p></p>
