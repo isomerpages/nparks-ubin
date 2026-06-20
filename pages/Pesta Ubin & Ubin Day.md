@@ -77,8 +77,9 @@ of Ubin Network (FUN), with the support of the NParks.</p>
 <p></p>
 <p><u>Follow Pesta Ubin on these channels:</u>
 </p>
-<p>Facebook: <strong><a href="https://www.facebook.com/pulauubinday/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/pulauubinday/</a></strong>
+<p>Facebook: <a href="https://facebook.com/ubinFUN" rel="noopener nofollow" target="_blank">https://facebook.com/ubinFUN</a>
 </p>
-<p>Instagram: <strong><a href="https://www.facebook.com/pulauubinday/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/pesta.ubin/</a></strong>
+<p>Telegram: <a href="" rel="noopener nofollow" target="_blank">https://www.instagram.com/ubinFUN</a>
 </p>
+<p></p>
 <p>We hope to see you there!</p>
